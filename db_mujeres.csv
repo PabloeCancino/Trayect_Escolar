@@ -1,0 +1,1051 @@
+paciente,grupo,IMC,edad,sanas,fumadoras,patologia,alcoholismo,toxicomanas
+paciente_001,sobrepeso,26.57,25,0,1,0,1,0
+paciente_002,normopeso,24.26,22,1,0,1,1,0
+paciente_003,obesidad III,40.79,29,1,0,1,0,0
+paciente_004,normopeso,23.22,23,1,0,0,1,1
+paciente_005,sobrepeso,27.83,26,1,0,1,1,1
+paciente_006,obesidad I,34.69,29,0,1,1,1,0
+paciente_007,normopeso,20.15,24,0,0,0,0,1
+paciente_008,sobrepeso,26.86,27,1,1,1,1,1
+paciente_009,normopeso,21.16,21,1,1,1,1,1
+paciente_010,sobrepeso,27.54,25,0,0,0,1,0
+paciente_011,sobrepeso,25.46,26,0,1,1,1,0
+paciente_012,obesidad III,40.43,28,1,1,0,1,1
+paciente_013,normopeso,23.83,18,0,1,0,1,1
+paciente_014,obesidad I,30.31,29,0,1,1,0,0
+paciente_015,normopeso,21.08,22,1,0,1,1,1
+paciente_016,normopeso,21.75,24,1,1,0,1,0
+paciente_017,obesidad I,34.86,28,1,1,1,1,1
+paciente_018,normopeso,21.66,23,0,0,1,0,1
+paciente_019,normopeso,22.48,21,0,1,1,0,1
+paciente_020,obesidad I,33.01,29,0,1,1,0,0
+paciente_021,obesidad I,31.47,26,1,0,1,0,0
+paciente_022,normopeso,22.49,23,1,1,0,1,0
+paciente_023,normopeso,18.59,24,1,1,1,1,1
+paciente_024,sobrepeso,27.43,25,1,1,1,0,1
+paciente_025,normopeso,23.35,24,1,1,0,1,1
+paciente_026,normopeso,21.9,20,0,1,0,0,1
+paciente_027,sobrepeso,29.09,29,0,0,1,1,1
+paciente_028,normopeso,24.67,18,1,0,1,1,1
+paciente_029,normopeso,24.42,24,0,0,1,0,1
+paciente_030,sobrepeso,26.21,27,1,0,1,0,0
+paciente_031,normopeso,21.24,21,0,1,1,1,1
+paciente_032,sobrepeso,29.72,27,1,0,1,0,0
+paciente_033,normopeso,24.03,19,1,1,0,1,0
+paciente_034,obesidad III,44.32,28,0,0,1,1,0
+paciente_035,normopeso,22.12,21,0,0,0,1,1
+paciente_036,sobrepeso,28.56,25,0,0,0,0,1
+paciente_037,obesidad III,42.34,29,0,0,1,1,1
+paciente_038,obesidad I,31.83,25,1,1,1,1,1
+paciente_039,normopeso,24.23,20,1,0,1,0,1
+paciente_040,normopeso,20.23,21,1,1,0,0,1
+paciente_041,sobrepeso,29.28,27,1,0,0,1,0
+paciente_042,sobrepeso,29.31,27,0,1,0,0,1
+paciente_043,sobrepeso,26.84,27,1,0,0,1,0
+paciente_044,normopeso,19.99,21,0,1,1,1,1
+paciente_045,sobrepeso,27.15,28,0,0,1,0,0
+paciente_046,normopeso,22.96,21,0,1,1,1,0
+paciente_047,obesidad I,33.54,28,1,1,1,0,0
+paciente_048,sobrepeso,29.55,28,0,0,1,0,1
+paciente_049,obesidad III,40.39,27,0,1,0,1,1
+paciente_050,normopeso,21.03,20,1,1,0,0,1
+paciente_051,obesidad I,32.82,26,0,0,1,0,0
+paciente_052,normopeso,21.28,22,0,0,1,1,1
+paciente_053,normopeso,22.74,18,1,0,1,1,0
+paciente_054,obesidad III,43.64,27,0,1,1,1,1
+paciente_055,normopeso,21.25,23,1,0,1,1,0
+paciente_056,normopeso,18.75,20,0,0,0,0,0
+paciente_057,sobrepeso,26.5,29,1,1,1,1,0
+paciente_058,obesidad III,41.23,25,0,0,0,0,0
+paciente_059,normopeso,21.66,24,0,1,0,0,0
+paciente_060,normopeso,22.85,22,1,1,1,1,0
+paciente_061,normopeso,22.85,24,0,1,0,1,1
+paciente_062,sobrepeso,28.34,26,0,1,0,1,0
+paciente_063,sobrepeso,25.62,27,1,1,1,0,1
+paciente_064,normopeso,20.8,22,0,1,0,1,1
+paciente_065,sobrepeso,29.87,25,0,1,1,0,0
+paciente_066,sobrepeso,28.23,29,1,0,1,1,0
+paciente_067,sobrepeso,29.63,25,1,1,0,1,0
+paciente_068,normopeso,20.8,23,1,1,0,0,1
+paciente_069,normopeso,20.18,19,0,1,1,1,0
+paciente_070,normopeso,22.12,23,0,1,0,0,1
+paciente_071,obesidad I,31.49,26,0,1,1,1,0
+paciente_072,sobrepeso,25.83,26,1,1,1,0,0
+paciente_073,normopeso,23.43,22,1,1,0,1,1
+paciente_074,normopeso,23.08,24,1,1,1,0,0
+paciente_075,normopeso,19.73,19,0,1,0,1,1
+paciente_076,normopeso,21.81,18,1,1,0,1,0
+paciente_077,sobrepeso,25.57,26,1,0,1,0,0
+paciente_078,normopeso,23.98,24,0,0,1,1,0
+paciente_079,obesidad I,33.58,28,1,1,1,1,0
+paciente_080,sobrepeso,27.26,29,0,1,1,0,1
+paciente_081,sobrepeso,25.72,29,1,0,0,0,0
+paciente_082,normopeso,20.95,20,0,0,0,0,1
+paciente_083,sobrepeso,28.34,27,0,1,1,0,0
+paciente_084,normopeso,21.7,23,1,0,0,0,0
+paciente_085,sobrepeso,28.26,26,0,0,1,0,1
+paciente_086,normopeso,20.28,19,1,0,0,0,0
+paciente_087,normopeso,21.57,24,0,0,1,1,0
+paciente_088,obesidad I,34.78,28,0,1,0,1,1
+paciente_089,sobrepeso,28.02,28,0,0,0,0,0
+paciente_090,normopeso,20.64,22,1,1,0,0,0
+paciente_091,normopeso,21.21,20,0,1,0,1,1
+paciente_092,obesidad III,41.32,28,1,0,0,1,1
+paciente_093,sobrepeso,29.46,26,0,1,0,1,1
+paciente_094,obesidad III,40.12,29,1,0,1,0,1
+paciente_095,obesidad III,41.69,29,0,1,1,1,1
+paciente_096,normopeso,20.88,22,0,1,1,0,0
+paciente_097,sobrepeso,28.88,28,1,1,1,1,0
+paciente_098,normopeso,18.56,22,1,1,1,1,0
+paciente_099,sobrepeso,25.86,27,0,0,1,0,0
+paciente_100,normopeso,20.84,19,1,1,0,1,1
+paciente_101,normopeso,23.52,18,1,0,0,1,1
+paciente_102,normopeso,23.44,20,0,0,1,1,0
+paciente_103,normopeso,20.2,22,1,1,1,1,0
+paciente_104,sobrepeso,29.45,27,0,1,0,0,0
+paciente_105,normopeso,22.9,22,0,1,1,1,0
+paciente_106,normopeso,20.16,20,1,1,1,1,0
+paciente_107,sobrepeso,28.04,29,1,1,1,0,0
+paciente_108,sobrepeso,25.3,28,1,1,0,0,1
+paciente_109,normopeso,21.28,21,1,1,0,0,0
+paciente_110,normopeso,20.06,18,0,0,0,0,0
+paciente_111,obesidad III,41.63,26,1,1,1,1,1
+paciente_112,obesidad I,33.85,25,0,1,0,1,1
+paciente_113,obesidad I,31.14,29,0,1,0,0,1
+paciente_114,obesidad I,30.18,29,0,1,1,0,0
+paciente_115,normopeso,22.11,20,0,1,0,0,1
+paciente_116,obesidad III,42.27,27,1,1,0,1,1
+paciente_117,obesidad I,32.73,29,0,0,1,1,0
+paciente_118,normopeso,18.89,19,1,1,0,0,1
+paciente_119,normopeso,19.34,18,1,1,0,0,1
+paciente_120,normopeso,23.66,18,0,0,0,1,1
+paciente_121,obesidad III,42.34,25,1,1,0,0,1
+paciente_122,sobrepeso,28.48,26,1,0,0,1,0
+paciente_123,sobrepeso,25.38,26,0,0,1,0,0
+paciente_124,normopeso,23.58,24,0,1,0,1,0
+paciente_125,obesidad III,44.63,28,0,0,1,0,1
+paciente_126,normopeso,24.88,22,0,1,1,0,0
+paciente_127,obesidad III,41.07,25,0,1,0,1,0
+paciente_128,sobrepeso,28.57,26,1,1,1,1,1
+paciente_129,obesidad I,30.61,27,1,0,1,0,1
+paciente_130,sobrepeso,25.65,28,1,1,1,1,1
+paciente_131,normopeso,24.06,18,0,0,1,1,1
+paciente_132,normopeso,23.77,22,1,0,1,0,1
+paciente_133,obesidad I,34.77,25,0,1,0,0,1
+paciente_134,sobrepeso,25.85,26,1,0,1,0,0
+paciente_135,normopeso,23.38,23,1,1,0,1,1
+paciente_136,obesidad I,32.42,27,0,0,0,0,0
+paciente_137,sobrepeso,25.3,29,0,1,0,1,1
+paciente_138,normopeso,22.44,24,0,1,0,1,1
+paciente_139,normopeso,21.04,24,1,1,1,1,0
+paciente_140,obesidad I,32.8,26,1,0,1,0,1
+paciente_141,sobrepeso,29.43,28,0,1,1,1,0
+paciente_142,sobrepeso,27.63,28,1,1,0,0,0
+paciente_143,sobrepeso,28.97,28,0,0,1,1,1
+paciente_144,normopeso,23.59,21,1,0,0,1,0
+paciente_145,obesidad I,32.05,25,1,1,1,0,1
+paciente_146,sobrepeso,26.67,29,0,1,1,0,1
+paciente_147,normopeso,19.76,22,0,1,1,0,0
+paciente_148,normopeso,21.71,24,1,0,1,0,1
+paciente_149,normopeso,21.88,24,0,0,1,1,1
+paciente_150,normopeso,21.26,20,0,0,1,1,0
+paciente_151,obesidad III,43.88,25,0,0,0,0,0
+paciente_152,normopeso,19.59,20,0,1,1,1,1
+paciente_153,sobrepeso,29.76,28,0,0,0,0,1
+paciente_154,normopeso,18.64,18,0,0,1,0,1
+paciente_155,sobrepeso,25.85,27,1,0,0,0,1
+paciente_156,sobrepeso,25.17,26,0,1,1,0,1
+paciente_157,sobrepeso,29.84,25,1,0,1,1,1
+paciente_158,sobrepeso,28.82,27,1,1,0,1,0
+paciente_159,obesidad III,43.25,29,1,0,1,1,0
+paciente_160,normopeso,19.29,20,1,1,0,0,0
+paciente_161,normopeso,19.41,18,0,0,0,0,0
+paciente_162,sobrepeso,26.04,29,1,1,1,0,0
+paciente_163,sobrepeso,25.74,26,1,1,1,0,1
+paciente_164,sobrepeso,26.31,29,1,0,0,1,0
+paciente_165,normopeso,20.53,24,0,1,0,1,0
+paciente_166,obesidad III,44.76,28,0,1,1,0,0
+paciente_167,normopeso,22.24,22,1,0,1,0,1
+paciente_168,normopeso,20.71,19,1,0,1,0,0
+paciente_169,normopeso,21.51,19,1,0,0,1,0
+paciente_170,sobrepeso,26.12,28,0,0,1,0,1
+paciente_171,sobrepeso,28.42,25,1,1,0,1,0
+paciente_172,normopeso,22.48,23,1,1,0,0,1
+paciente_173,sobrepeso,28.85,28,1,1,1,0,0
+paciente_174,obesidad I,34.58,27,0,0,0,1,0
+paciente_175,normopeso,21.11,18,0,0,1,1,0
+paciente_176,normopeso,20.03,23,1,0,1,0,1
+paciente_177,obesidad I,34.52,25,0,0,1,0,0
+paciente_178,normopeso,21.0,20,0,1,0,1,1
+paciente_179,normopeso,21.83,22,0,0,0,0,0
+paciente_180,obesidad III,42.63,26,1,1,0,0,0
+paciente_181,normopeso,24.83,23,1,0,1,0,0
+paciente_182,bajo peso,18.2,17,0,1,1,1,0
+paciente_183,normopeso,20.16,19,0,1,0,0,1
+paciente_184,sobrepeso,28.98,25,1,1,1,0,0
+paciente_185,sobrepeso,28.2,26,0,1,0,1,1
+paciente_186,bajo peso,16.09,16,0,1,0,1,0
+paciente_187,normopeso,19.3,23,0,1,1,0,0
+paciente_188,obesidad III,41.64,26,0,0,0,1,1
+paciente_189,obesidad III,42.13,25,0,1,0,1,1
+paciente_190,normopeso,20.95,18,0,1,1,1,0
+paciente_191,obesidad I,32.21,27,0,1,1,0,0
+paciente_192,normopeso,24.21,23,0,1,1,1,1
+paciente_193,obesidad I,33.5,29,1,1,0,0,0
+paciente_194,normopeso,19.89,23,1,1,0,1,0
+paciente_195,sobrepeso,25.45,26,1,0,0,0,0
+paciente_196,normopeso,22.22,19,0,0,0,1,0
+paciente_197,normopeso,20.8,23,0,1,0,1,1
+paciente_198,obesidad III,42.35,25,1,1,0,0,0
+paciente_199,sobrepeso,27.73,29,1,1,0,0,1
+paciente_200,normopeso,19.9,21,0,0,1,1,0
+paciente_201,normopeso,20.49,21,1,0,1,0,1
+paciente_202,normopeso,24.12,18,1,1,1,0,0
+paciente_203,obesidad I,31.98,26,1,0,1,1,1
+paciente_204,sobrepeso,28.31,27,0,1,1,1,0
+paciente_205,normopeso,23.15,19,1,1,0,0,1
+paciente_206,normopeso,21.49,23,1,0,0,0,0
+paciente_207,obesidad III,40.61,26,0,1,0,1,0
+paciente_208,sobrepeso,25.13,27,1,0,0,0,1
+paciente_209,sobrepeso,26.04,26,0,1,1,0,0
+paciente_210,sobrepeso,28.83,26,0,0,1,0,1
+paciente_211,normopeso,20.46,23,1,0,0,1,0
+paciente_212,normopeso,23.45,24,0,0,1,0,1
+paciente_213,normopeso,22.83,23,0,1,1,1,1
+paciente_214,obesidad I,33.69,29,1,1,0,0,0
+paciente_215,sobrepeso,25.76,28,0,0,0,1,0
+paciente_216,obesidad I,33.04,25,0,0,0,1,1
+paciente_217,normopeso,19.35,21,0,1,1,0,1
+paciente_218,sobrepeso,27.19,27,1,1,0,1,1
+paciente_219,normopeso,23.13,20,0,1,0,1,0
+paciente_220,normopeso,18.66,18,0,0,0,0,0
+paciente_221,normopeso,20.01,21,0,0,1,1,1
+paciente_222,sobrepeso,28.47,25,1,0,1,0,0
+paciente_223,normopeso,22.47,18,0,0,0,1,1
+paciente_224,sobrepeso,25.37,29,0,0,1,1,0
+paciente_225,sobrepeso,25.08,29,1,1,0,0,1
+paciente_226,sobrepeso,27.22,29,1,0,0,0,1
+paciente_227,normopeso,19.34,23,0,1,0,1,0
+paciente_228,sobrepeso,25.78,29,0,0,0,0,0
+paciente_229,sobrepeso,29.44,27,1,1,0,1,0
+paciente_230,normopeso,18.66,21,1,0,1,1,0
+paciente_231,normopeso,22.02,20,0,0,1,1,1
+paciente_232,normopeso,21.47,19,1,1,0,1,0
+paciente_233,sobrepeso,28.37,28,1,0,1,1,0
+paciente_234,sobrepeso,29.89,25,0,1,0,1,1
+paciente_235,obesidad I,32.65,26,1,0,0,0,1
+paciente_236,normopeso,23.97,23,1,0,0,0,1
+paciente_237,normopeso,21.04,19,0,0,0,0,1
+paciente_238,normopeso,24.38,18,1,1,1,0,0
+paciente_239,normopeso,23.52,24,1,1,0,0,0
+paciente_240,normopeso,21.91,18,1,1,1,0,0
+paciente_241,normopeso,22.28,18,1,0,0,1,0
+paciente_242,normopeso,20.62,18,1,1,0,0,0
+paciente_243,sobrepeso,27.94,29,1,1,1,0,1
+paciente_244,sobrepeso,26.54,25,1,0,1,0,0
+paciente_245,obesidad I,34.71,27,0,1,1,1,0
+paciente_246,normopeso,20.81,23,0,0,0,0,1
+paciente_247,bajo peso,16.1,16,1,1,0,0,0
+paciente_248,bajo peso,18.08,17,0,1,0,1,1
+paciente_249,sobrepeso,27.43,29,0,1,1,0,1
+paciente_250,normopeso,18.69,23,0,1,0,1,0
+paciente_251,sobrepeso,26.96,29,1,1,0,0,0
+paciente_252,normopeso,21.16,19,1,0,1,0,1
+paciente_253,obesidad III,42.21,27,0,1,0,1,0
+paciente_254,normopeso,21.94,23,0,0,0,0,1
+paciente_255,normopeso,19.59,24,0,0,0,0,1
+paciente_256,normopeso,24.01,21,1,0,0,0,1
+paciente_257,normopeso,23.55,19,1,1,1,1,0
+paciente_258,obesidad I,32.98,27,1,0,1,0,0
+paciente_259,normopeso,20.57,23,1,1,0,0,0
+paciente_260,normopeso,24.27,18,0,1,1,1,1
+paciente_261,normopeso,21.31,22,0,0,0,1,1
+paciente_262,normopeso,21.35,21,0,0,1,1,1
+paciente_263,obesidad III,40.67,28,1,0,1,0,0
+paciente_264,normopeso,20.5,20,0,1,0,0,0
+paciente_265,normopeso,18.69,22,1,0,1,0,0
+paciente_266,normopeso,24.54,24,1,0,1,0,1
+paciente_267,normopeso,22.9,24,0,0,1,1,0
+paciente_268,obesidad I,30.95,27,1,0,1,0,0
+paciente_269,obesidad I,31.23,29,0,1,0,1,0
+paciente_270,normopeso,21.62,23,1,0,0,1,1
+paciente_271,sobrepeso,26.87,26,1,0,1,0,0
+paciente_272,obesidad III,43.17,29,0,1,0,0,1
+paciente_273,normopeso,22.14,19,0,1,1,0,0
+paciente_274,normopeso,22.42,24,0,0,1,0,0
+paciente_275,bajo peso,16.8,16,1,1,1,1,1
+paciente_276,obesidad III,43.22,28,0,1,1,1,0
+paciente_277,sobrepeso,25.32,29,0,1,0,1,1
+paciente_278,sobrepeso,27.18,25,1,1,0,0,0
+paciente_279,sobrepeso,28.76,28,1,1,0,0,0
+paciente_280,obesidad III,44.84,25,1,1,1,1,1
+paciente_281,normopeso,18.65,23,0,1,1,0,1
+paciente_282,sobrepeso,29.2,28,1,0,0,1,1
+paciente_283,normopeso,20.37,21,1,1,1,0,0
+paciente_284,normopeso,20.54,20,0,1,0,1,1
+paciente_285,sobrepeso,28.84,25,1,1,0,0,0
+paciente_286,obesidad III,44.39,27,0,0,0,1,1
+paciente_287,sobrepeso,27.61,26,1,1,0,1,1
+paciente_288,sobrepeso,25.1,26,0,0,1,0,1
+paciente_289,normopeso,19.47,18,0,1,1,0,1
+paciente_290,obesidad I,32.23,29,1,0,0,1,0
+paciente_291,sobrepeso,27.96,27,0,1,0,0,1
+paciente_292,sobrepeso,27.59,28,0,1,1,0,1
+paciente_293,normopeso,22.67,19,1,1,1,0,0
+paciente_294,normopeso,22.46,19,1,0,0,0,0
+paciente_295,sobrepeso,25.59,28,0,0,0,0,0
+paciente_296,sobrepeso,27.32,26,1,1,1,1,1
+paciente_297,sobrepeso,28.86,28,0,1,0,0,1
+paciente_298,normopeso,23.28,19,0,1,1,0,1
+paciente_299,obesidad I,33.89,25,1,1,1,0,0
+paciente_300,normopeso,22.55,23,1,0,1,0,0
+paciente_301,normopeso,21.93,21,0,0,1,0,1
+paciente_302,normopeso,24.46,24,1,0,1,0,1
+paciente_303,normopeso,19.52,22,1,1,0,1,1
+paciente_304,obesidad I,32.15,29,0,1,1,1,1
+paciente_305,normopeso,19.45,24,1,0,0,0,0
+paciente_306,sobrepeso,26.58,26,0,0,1,0,0
+paciente_307,sobrepeso,28.75,27,1,1,0,0,1
+paciente_308,normopeso,20.38,24,0,0,0,0,1
+paciente_309,normopeso,24.77,19,0,1,0,0,1
+paciente_310,sobrepeso,29.42,28,0,1,1,1,1
+paciente_311,obesidad I,33.26,29,1,0,0,0,0
+paciente_312,normopeso,20.79,24,1,0,1,0,1
+paciente_313,normopeso,23.1,18,0,1,0,1,0
+paciente_314,sobrepeso,26.17,27,0,1,1,0,0
+paciente_315,normopeso,24.15,20,1,0,1,1,0
+paciente_316,normopeso,22.98,23,0,1,1,1,1
+paciente_317,sobrepeso,28.32,25,0,1,0,0,1
+paciente_318,obesidad I,31.76,25,1,1,1,0,0
+paciente_319,obesidad I,33.84,27,0,1,0,0,0
+paciente_320,normopeso,21.2,21,0,1,0,0,1
+paciente_321,normopeso,19.57,24,1,1,1,0,0
+paciente_322,sobrepeso,25.62,26,1,0,1,0,0
+paciente_323,normopeso,19.69,20,1,1,1,0,1
+paciente_324,sobrepeso,28.48,27,0,1,1,1,0
+paciente_325,obesidad I,32.81,26,1,1,1,0,0
+paciente_326,normopeso,22.55,23,0,1,1,1,1
+paciente_327,obesidad III,43.05,29,1,1,1,0,1
+paciente_328,obesidad III,44.75,29,1,0,0,1,1
+paciente_329,obesidad I,32.62,26,1,1,0,0,1
+paciente_330,normopeso,21.15,22,0,1,0,0,1
+paciente_331,normopeso,24.15,21,1,0,1,0,0
+paciente_332,normopeso,18.87,18,1,0,0,1,1
+paciente_333,sobrepeso,27.17,27,0,0,0,1,1
+paciente_334,normopeso,24.63,19,1,0,1,0,0
+paciente_335,normopeso,22.87,19,0,1,1,0,0
+paciente_336,sobrepeso,29.87,25,1,0,1,1,1
+paciente_337,bajo peso,17.29,17,1,1,0,0,1
+paciente_338,obesidad III,44.4,27,1,1,1,0,1
+paciente_339,normopeso,19.14,18,1,1,0,1,0
+paciente_340,sobrepeso,28.0,28,1,1,1,1,1
+paciente_341,obesidad III,44.71,28,0,0,0,0,1
+paciente_342,sobrepeso,25.22,29,0,0,1,0,1
+paciente_343,sobrepeso,27.78,26,0,0,0,0,0
+paciente_344,sobrepeso,28.82,28,0,1,0,0,0
+paciente_345,sobrepeso,28.26,29,0,0,1,1,1
+paciente_346,sobrepeso,26.76,26,0,1,0,1,0
+paciente_347,sobrepeso,29.45,26,1,1,0,1,0
+paciente_348,obesidad III,40.45,27,0,1,1,1,0
+paciente_349,sobrepeso,29.16,27,1,1,0,1,0
+paciente_350,sobrepeso,26.95,26,1,0,1,1,1
+paciente_351,obesidad I,30.14,25,0,0,1,1,0
+paciente_352,normopeso,22.05,18,1,0,0,1,0
+paciente_353,normopeso,23.94,18,0,1,0,1,0
+paciente_354,sobrepeso,26.83,29,0,1,1,1,0
+paciente_355,sobrepeso,28.03,29,0,0,1,0,0
+paciente_356,bajo peso,17.67,17,0,1,1,0,0
+paciente_357,obesidad III,44.43,28,0,0,1,0,0
+paciente_358,normopeso,21.16,24,0,0,1,0,0
+paciente_359,normopeso,21.84,21,1,0,0,1,1
+paciente_360,sobrepeso,25.34,25,0,1,1,1,0
+paciente_361,normopeso,22.27,20,0,0,0,0,0
+paciente_362,obesidad I,32.4,25,1,0,1,1,1
+paciente_363,normopeso,22.7,21,1,0,0,0,0
+paciente_364,sobrepeso,28.13,28,0,0,1,0,1
+paciente_365,obesidad III,41.97,27,1,1,1,0,0
+paciente_366,obesidad III,44.44,26,1,0,1,1,0
+paciente_367,sobrepeso,27.5,25,0,0,1,0,0
+paciente_368,obesidad III,43.81,27,1,0,1,1,1
+paciente_369,normopeso,18.79,23,0,0,0,0,1
+paciente_370,normopeso,19.9,24,0,0,1,0,0
+paciente_371,sobrepeso,26.12,28,1,0,0,0,0
+paciente_372,sobrepeso,28.55,27,1,1,0,0,1
+paciente_373,obesidad I,33.34,29,1,0,0,0,0
+paciente_374,sobrepeso,25.6,25,1,1,0,1,0
+paciente_375,normopeso,20.69,23,1,1,1,1,1
+paciente_376,normopeso,19.09,18,0,0,0,1,0
+paciente_377,normopeso,23.69,19,0,1,1,1,0
+paciente_378,normopeso,21.79,20,1,1,1,0,0
+paciente_379,sobrepeso,28.24,27,0,1,1,0,1
+paciente_380,sobrepeso,27.48,27,0,0,0,0,1
+paciente_381,sobrepeso,27.87,27,0,0,1,0,0
+paciente_382,obesidad III,42.61,27,1,0,0,0,0
+paciente_383,obesidad I,30.92,25,0,1,1,1,1
+paciente_384,sobrepeso,28.32,27,0,0,0,0,1
+paciente_385,normopeso,22.03,21,0,0,0,1,0
+paciente_386,normopeso,18.59,24,0,1,1,1,1
+paciente_387,normopeso,21.49,20,1,1,0,1,1
+paciente_388,normopeso,18.68,22,0,0,0,0,0
+paciente_389,normopeso,18.84,20,0,0,1,0,1
+paciente_390,sobrepeso,26.34,26,1,0,1,1,1
+paciente_391,obesidad I,30.31,29,1,1,0,0,1
+paciente_392,normopeso,24.07,23,1,0,1,0,0
+paciente_393,obesidad I,33.9,25,1,0,0,1,1
+paciente_394,sobrepeso,29.73,27,0,1,0,1,1
+paciente_395,obesidad I,31.22,25,1,0,1,0,0
+paciente_396,normopeso,21.61,20,1,0,0,1,0
+paciente_397,sobrepeso,25.72,29,0,0,1,1,0
+paciente_398,sobrepeso,27.53,26,1,0,0,0,1
+paciente_399,sobrepeso,25.68,28,1,0,0,1,1
+paciente_400,obesidad III,41.45,29,1,1,0,0,0
+paciente_401,sobrepeso,27.4,27,1,1,0,1,1
+paciente_402,obesidad I,34.09,27,0,1,0,1,1
+paciente_403,sobrepeso,26.22,29,0,0,0,1,1
+paciente_404,sobrepeso,27.87,27,1,0,1,0,1
+paciente_405,obesidad III,41.27,29,0,1,0,0,1
+paciente_406,bajo peso,16.1,17,1,0,1,1,1
+paciente_407,normopeso,24.03,18,0,0,1,0,1
+paciente_408,sobrepeso,27.47,25,1,1,1,0,0
+paciente_409,normopeso,20.42,24,0,1,0,0,0
+paciente_410,normopeso,24.65,20,1,1,1,1,1
+paciente_411,normopeso,19.68,23,1,1,0,1,0
+paciente_412,normopeso,21.54,19,1,0,0,0,1
+paciente_413,normopeso,19.22,24,1,1,1,0,1
+paciente_414,normopeso,24.85,19,0,1,0,0,1
+paciente_415,sobrepeso,27.28,27,0,0,1,1,1
+paciente_416,sobrepeso,28.29,28,1,1,1,1,0
+paciente_417,obesidad III,44.79,27,1,0,1,1,1
+paciente_418,obesidad I,32.98,28,1,0,0,0,0
+paciente_419,obesidad III,43.81,29,0,1,0,1,0
+paciente_420,normopeso,24.53,18,0,0,0,0,0
+paciente_421,obesidad III,42.54,26,0,1,1,0,1
+paciente_422,normopeso,22.78,21,0,0,1,0,0
+paciente_423,obesidad I,30.39,26,0,1,0,1,0
+paciente_424,normopeso,23.35,24,0,1,0,0,0
+paciente_425,normopeso,19.43,20,0,1,0,1,1
+paciente_426,obesidad I,33.25,26,0,1,0,1,0
+paciente_427,normopeso,20.46,19,0,0,0,1,1
+paciente_428,normopeso,24.82,20,0,1,1,1,0
+paciente_429,normopeso,19.88,20,1,1,1,1,1
+paciente_430,obesidad I,33.87,29,0,1,1,0,0
+paciente_431,obesidad I,33.11,28,1,1,1,1,1
+paciente_432,obesidad III,43.0,29,0,0,0,1,1
+paciente_433,obesidad III,43.68,26,1,1,1,0,0
+paciente_434,sobrepeso,27.98,25,0,1,1,0,1
+paciente_435,sobrepeso,29.77,25,1,1,0,1,0
+paciente_436,sobrepeso,26.96,29,0,0,0,1,1
+paciente_437,normopeso,22.92,24,1,0,0,1,0
+paciente_438,normopeso,20.42,23,1,0,0,0,1
+paciente_439,normopeso,18.56,23,1,0,1,1,0
+paciente_440,normopeso,19.48,22,0,1,1,0,0
+paciente_441,obesidad I,32.92,26,1,1,0,1,0
+paciente_442,normopeso,23.61,24,0,1,0,0,0
+paciente_443,obesidad I,34.8,29,0,1,0,1,0
+paciente_444,sobrepeso,28.22,25,1,0,0,1,1
+paciente_445,normopeso,24.64,18,1,1,1,0,1
+paciente_446,normopeso,19.02,20,1,1,0,1,0
+paciente_447,obesidad I,31.61,28,1,1,0,0,1
+paciente_448,normopeso,24.78,22,0,0,1,1,1
+paciente_449,sobrepeso,26.36,29,0,1,0,0,0
+paciente_450,normopeso,24.31,22,1,0,0,0,0
+paciente_451,normopeso,21.5,20,1,1,0,1,1
+paciente_452,normopeso,20.56,20,0,0,1,0,0
+paciente_453,bajo peso,18.38,17,1,0,0,0,0
+paciente_454,obesidad I,32.56,27,1,0,0,1,0
+paciente_455,bajo peso,17.14,16,0,0,0,0,0
+paciente_456,normopeso,23.61,22,1,1,1,0,1
+paciente_457,obesidad I,33.1,26,1,1,1,0,0
+paciente_458,sobrepeso,26.25,25,1,0,1,0,1
+paciente_459,normopeso,19.84,20,0,1,1,0,0
+paciente_460,normopeso,18.53,24,0,0,0,0,0
+paciente_461,normopeso,19.29,19,1,1,1,0,1
+paciente_462,bajo peso,17.73,17,1,0,1,0,1
+paciente_463,obesidad I,31.77,29,0,1,0,1,0
+paciente_464,sobrepeso,25.18,28,1,1,0,1,1
+paciente_465,sobrepeso,26.88,29,1,0,1,1,1
+paciente_466,normopeso,19.67,22,0,1,0,0,1
+paciente_467,normopeso,19.7,20,0,1,1,0,1
+paciente_468,normopeso,23.23,19,1,1,1,0,1
+paciente_469,obesidad I,30.53,26,0,0,0,0,0
+paciente_470,sobrepeso,25.8,27,1,1,0,0,1
+paciente_471,normopeso,20.72,22,1,0,0,1,1
+paciente_472,sobrepeso,28.55,27,0,1,1,1,1
+paciente_473,normopeso,20.64,24,0,1,1,0,1
+paciente_474,normopeso,20.06,18,1,0,0,0,1
+paciente_475,obesidad III,41.17,27,0,1,1,1,0
+paciente_476,sobrepeso,25.22,26,1,1,1,1,0
+paciente_477,obesidad I,31.13,27,1,1,0,1,0
+paciente_478,sobrepeso,28.71,29,0,0,1,0,0
+paciente_479,obesidad III,42.1,28,1,1,1,0,0
+paciente_480,normopeso,24.04,19,0,0,1,0,1
+paciente_481,normopeso,20.58,20,1,0,1,0,1
+paciente_482,normopeso,19.16,20,0,0,1,1,0
+paciente_483,normopeso,21.83,18,0,1,0,0,1
+paciente_484,normopeso,19.71,21,0,0,0,1,0
+paciente_485,sobrepeso,27.15,25,1,1,1,1,1
+paciente_486,sobrepeso,26.43,29,1,1,0,1,0
+paciente_487,obesidad I,33.68,29,0,0,0,1,0
+paciente_488,normopeso,22.34,18,0,1,0,0,1
+paciente_489,obesidad I,31.52,27,0,0,1,1,0
+paciente_490,sobrepeso,26.37,26,0,1,1,0,0
+paciente_491,bajo peso,16.15,16,1,0,0,0,1
+paciente_492,sobrepeso,29.6,25,0,1,0,1,0
+paciente_493,sobrepeso,26.32,26,1,1,0,1,1
+paciente_494,bajo peso,18.06,17,0,1,1,1,0
+paciente_495,sobrepeso,25.55,27,1,0,1,0,1
+paciente_496,normopeso,21.87,21,0,0,0,0,0
+paciente_497,normopeso,20.44,24,0,1,0,1,0
+paciente_498,obesidad III,43.56,26,0,1,0,0,0
+paciente_499,sobrepeso,26.14,26,0,0,1,1,0
+paciente_500,obesidad III,41.66,26,0,1,1,0,0
+paciente_501,sobrepeso,25.68,29,0,0,1,0,0
+paciente_502,sobrepeso,25.02,27,1,0,1,1,0
+paciente_503,normopeso,19.59,18,1,0,0,1,1
+paciente_504,normopeso,23.87,18,0,1,0,0,1
+paciente_505,sobrepeso,27.93,28,0,0,0,1,0
+paciente_506,obesidad III,43.84,29,1,1,0,1,0
+paciente_507,sobrepeso,29.65,26,1,0,1,1,0
+paciente_508,obesidad III,40.26,27,1,0,0,0,1
+paciente_509,sobrepeso,27.01,28,0,1,0,1,1
+paciente_510,obesidad I,30.67,28,0,1,0,0,0
+paciente_511,sobrepeso,26.39,25,0,0,1,1,0
+paciente_512,sobrepeso,26.33,29,1,1,0,0,1
+paciente_513,normopeso,19.95,19,1,0,1,0,0
+paciente_514,normopeso,20.05,23,0,0,0,0,1
+paciente_515,normopeso,18.93,21,1,1,1,0,0
+paciente_516,normopeso,21.27,24,1,1,0,0,0
+paciente_517,sobrepeso,25.38,29,0,1,1,0,0
+paciente_518,sobrepeso,29.67,29,1,0,0,0,0
+paciente_519,sobrepeso,28.61,29,1,0,0,0,0
+paciente_520,sobrepeso,28.4,25,1,0,0,1,1
+paciente_521,normopeso,22.73,19,0,1,1,1,1
+paciente_522,normopeso,24.2,18,0,0,0,0,1
+paciente_523,obesidad I,30.48,27,1,0,1,1,0
+paciente_524,obesidad I,34.02,29,0,0,0,1,0
+paciente_525,normopeso,22.71,23,0,0,1,1,0
+paciente_526,sobrepeso,29.85,29,1,1,1,1,1
+paciente_527,normopeso,21.73,23,1,1,0,1,1
+paciente_528,obesidad I,30.99,26,0,0,1,0,1
+paciente_529,sobrepeso,28.08,25,0,0,1,1,0
+paciente_530,normopeso,24.76,24,0,1,1,0,1
+paciente_531,obesidad I,34.47,28,1,1,1,1,1
+paciente_532,normopeso,18.93,22,1,0,0,1,0
+paciente_533,normopeso,20.81,21,0,1,1,0,1
+paciente_534,obesidad I,34.38,27,0,0,1,0,1
+paciente_535,normopeso,24.49,19,1,0,1,1,0
+paciente_536,obesidad III,41.71,25,0,0,1,0,1
+paciente_537,sobrepeso,25.68,25,1,0,0,1,1
+paciente_538,obesidad I,30.13,25,1,0,1,0,1
+paciente_539,normopeso,23.76,18,1,0,0,0,0
+paciente_540,sobrepeso,29.19,27,1,0,1,0,1
+paciente_541,obesidad III,44.92,28,0,0,0,0,1
+paciente_542,sobrepeso,28.77,26,0,1,0,0,0
+paciente_543,obesidad I,32.37,26,1,1,1,1,0
+paciente_544,normopeso,19.2,23,1,1,0,1,1
+paciente_545,sobrepeso,26.03,26,0,1,0,1,1
+paciente_546,sobrepeso,29.77,25,1,0,0,0,0
+paciente_547,obesidad III,40.41,27,1,1,0,0,1
+paciente_548,normopeso,23.28,20,0,1,1,1,1
+paciente_549,obesidad III,42.66,25,0,0,0,0,1
+paciente_550,sobrepeso,29.35,26,1,1,0,0,0
+paciente_551,sobrepeso,26.87,29,0,1,1,0,1
+paciente_552,sobrepeso,26.88,28,1,1,1,0,0
+paciente_553,normopeso,19.46,24,0,0,1,1,1
+paciente_554,sobrepeso,26.79,25,1,1,0,0,1
+paciente_555,sobrepeso,28.11,28,1,0,0,0,1
+paciente_556,sobrepeso,26.16,26,0,1,0,0,1
+paciente_557,normopeso,19.68,20,1,0,1,0,0
+paciente_558,normopeso,24.84,21,0,1,1,0,1
+paciente_559,normopeso,24.38,24,1,1,0,0,0
+paciente_560,normopeso,20.25,23,0,1,1,1,1
+paciente_561,normopeso,18.56,19,0,1,1,1,0
+paciente_562,sobrepeso,26.0,27,1,0,1,1,1
+paciente_563,normopeso,21.93,19,1,1,1,0,0
+paciente_564,normopeso,21.52,21,0,1,1,1,1
+paciente_565,normopeso,21.27,22,0,0,0,1,0
+paciente_566,normopeso,19.93,19,0,0,1,1,0
+paciente_567,normopeso,24.89,22,1,1,1,1,1
+paciente_568,sobrepeso,25.01,27,0,1,1,1,0
+paciente_569,sobrepeso,29.09,29,0,1,1,0,1
+paciente_570,normopeso,22.7,20,0,1,0,0,0
+paciente_571,obesidad III,40.21,28,0,0,0,1,0
+paciente_572,obesidad III,44.04,28,0,1,0,1,1
+paciente_573,obesidad I,31.49,25,0,0,1,0,1
+paciente_574,obesidad I,34.58,25,1,0,1,0,1
+paciente_575,sobrepeso,25.78,27,1,0,0,0,0
+paciente_576,normopeso,19.39,21,1,1,1,0,0
+paciente_577,sobrepeso,28.71,28,0,1,1,1,1
+paciente_578,normopeso,18.81,20,0,1,1,0,0
+paciente_579,obesidad III,40.37,29,1,0,0,0,1
+paciente_580,normopeso,22.07,21,1,1,0,0,1
+paciente_581,normopeso,22.61,20,1,0,1,1,1
+paciente_582,normopeso,21.42,23,0,1,0,0,0
+paciente_583,sobrepeso,29.89,28,1,0,0,1,1
+paciente_584,normopeso,24.59,23,0,0,0,0,1
+paciente_585,obesidad III,42.24,25,0,1,0,1,1
+paciente_586,sobrepeso,25.16,28,0,1,0,1,1
+paciente_587,sobrepeso,26.71,25,1,1,1,0,0
+paciente_588,sobrepeso,27.3,25,0,1,0,1,1
+paciente_589,normopeso,24.88,23,1,0,0,0,1
+paciente_590,sobrepeso,27.79,25,0,1,0,0,1
+paciente_591,sobrepeso,27.75,27,1,1,0,0,0
+paciente_592,sobrepeso,28.84,25,0,0,1,0,0
+paciente_593,sobrepeso,27.97,27,1,1,1,0,0
+paciente_594,obesidad III,43.26,26,1,0,1,0,0
+paciente_595,sobrepeso,26.58,28,1,0,1,0,0
+paciente_596,normopeso,20.35,23,0,0,0,0,0
+paciente_597,normopeso,21.41,20,0,0,1,1,0
+paciente_598,obesidad I,31.25,27,0,0,1,0,1
+paciente_599,bajo peso,17.86,17,1,1,1,0,1
+paciente_600,normopeso,24.34,23,1,0,1,1,1
+paciente_601,sobrepeso,27.26,27,1,1,0,1,0
+paciente_602,obesidad III,43.95,28,0,1,0,0,1
+paciente_603,obesidad I,33.75,29,1,0,1,1,0
+paciente_604,normopeso,20.54,18,0,1,1,0,1
+paciente_605,obesidad I,32.02,26,0,0,1,0,1
+paciente_606,obesidad I,34.86,27,0,1,1,0,0
+paciente_607,sobrepeso,28.88,26,0,1,1,0,1
+paciente_608,obesidad III,40.0,25,1,1,0,0,0
+paciente_609,sobrepeso,27.18,27,1,1,1,1,0
+paciente_610,sobrepeso,25.77,29,0,0,1,0,1
+paciente_611,obesidad III,43.83,26,0,1,0,1,1
+paciente_612,bajo peso,16.83,17,0,1,1,1,1
+paciente_613,normopeso,20.32,23,0,0,0,0,0
+paciente_614,normopeso,24.48,23,0,1,0,1,0
+paciente_615,sobrepeso,26.8,27,1,0,1,1,1
+paciente_616,sobrepeso,28.54,27,1,1,0,1,1
+paciente_617,sobrepeso,26.02,29,0,1,1,0,1
+paciente_618,normopeso,24.61,24,0,1,0,0,1
+paciente_619,obesidad III,41.45,25,0,1,0,0,1
+paciente_620,normopeso,20.57,22,1,1,1,0,1
+paciente_621,normopeso,23.75,24,1,1,1,1,0
+paciente_622,sobrepeso,26.46,29,1,1,1,1,1
+paciente_623,sobrepeso,26.65,29,0,0,0,0,0
+paciente_624,obesidad III,43.26,26,0,1,0,0,1
+paciente_625,sobrepeso,28.43,26,1,1,1,1,0
+paciente_626,obesidad I,31.58,25,0,0,0,1,1
+paciente_627,obesidad I,34.56,29,0,1,1,0,1
+paciente_628,normopeso,21.1,23,0,0,0,0,1
+paciente_629,normopeso,24.57,21,1,1,1,1,0
+paciente_630,bajo peso,18.33,16,0,1,1,1,1
+paciente_631,normopeso,21.71,20,0,1,0,1,0
+paciente_632,obesidad I,33.84,29,1,1,1,1,1
+paciente_633,obesidad III,41.29,26,0,0,1,0,0
+paciente_634,obesidad I,32.44,26,1,1,0,0,0
+paciente_635,bajo peso,18.43,16,1,0,1,1,1
+paciente_636,obesidad I,34.79,27,0,1,1,1,1
+paciente_637,normopeso,22.96,23,1,1,1,1,1
+paciente_638,sobrepeso,26.23,27,0,1,1,1,0
+paciente_639,obesidad I,32.3,28,1,1,1,1,1
+paciente_640,sobrepeso,29.36,26,1,0,0,1,1
+paciente_641,sobrepeso,29.16,26,1,1,0,1,1
+paciente_642,normopeso,19.11,21,0,0,1,0,1
+paciente_643,normopeso,22.34,22,0,1,0,0,1
+paciente_644,bajo peso,18.41,17,0,1,0,0,0
+paciente_645,normopeso,18.86,23,0,0,1,0,0
+paciente_646,normopeso,21.47,18,1,0,1,1,0
+paciente_647,sobrepeso,29.83,29,0,1,0,0,1
+paciente_648,obesidad I,33.71,29,1,0,1,1,0
+paciente_649,obesidad I,32.42,26,0,1,1,1,1
+paciente_650,sobrepeso,28.96,28,1,0,0,1,0
+paciente_651,normopeso,24.12,22,1,1,0,0,1
+paciente_652,obesidad I,30.61,28,1,0,1,0,0
+paciente_653,normopeso,18.84,20,1,1,1,0,1
+paciente_654,obesidad I,31.02,29,0,0,1,1,0
+paciente_655,bajo peso,17.86,17,1,0,1,1,0
+paciente_656,normopeso,19.4,21,1,1,0,0,0
+paciente_657,sobrepeso,28.34,27,0,0,1,1,1
+paciente_658,obesidad III,41.81,25,0,0,1,0,0
+paciente_659,normopeso,20.94,20,0,0,0,0,0
+paciente_660,sobrepeso,25.14,28,1,0,0,0,1
+paciente_661,sobrepeso,28.67,29,1,0,1,0,1
+paciente_662,obesidad I,32.92,29,0,1,0,0,1
+paciente_663,sobrepeso,29.09,26,1,1,1,1,1
+paciente_664,obesidad I,31.36,25,0,0,1,0,1
+paciente_665,obesidad III,40.61,25,1,1,1,0,0
+paciente_666,sobrepeso,29.15,25,0,0,1,1,0
+paciente_667,normopeso,20.81,21,0,1,1,0,1
+paciente_668,sobrepeso,26.03,29,0,0,1,1,1
+paciente_669,obesidad III,44.71,25,0,1,0,0,0
+paciente_670,normopeso,20.89,24,1,0,1,1,0
+paciente_671,sobrepeso,29.16,27,1,0,0,0,1
+paciente_672,normopeso,22.59,22,0,1,1,0,0
+paciente_673,obesidad III,42.94,27,0,1,1,1,0
+paciente_674,sobrepeso,25.54,25,0,0,1,1,0
+paciente_675,normopeso,19.4,18,1,1,1,0,1
+paciente_676,normopeso,22.2,24,1,1,1,1,0
+paciente_677,sobrepeso,25.2,28,0,0,0,0,1
+paciente_678,normopeso,19.8,23,1,0,0,0,0
+paciente_679,normopeso,19.2,18,0,1,1,0,0
+paciente_680,sobrepeso,26.19,25,1,1,1,0,1
+paciente_681,sobrepeso,29.74,27,0,0,0,1,0
+paciente_682,normopeso,22.07,24,1,0,1,0,1
+paciente_683,normopeso,19.18,24,0,0,0,0,0
+paciente_684,sobrepeso,26.26,27,0,1,0,0,1
+paciente_685,sobrepeso,26.53,28,1,0,1,0,1
+paciente_686,normopeso,21.98,24,1,0,1,0,0
+paciente_687,normopeso,19.97,18,0,1,1,0,0
+paciente_688,normopeso,24.32,20,1,1,0,1,1
+paciente_689,sobrepeso,25.24,26,1,1,1,0,1
+paciente_690,sobrepeso,25.45,25,1,1,0,0,1
+paciente_691,obesidad III,42.47,27,0,0,0,1,1
+paciente_692,normopeso,21.63,21,1,0,0,1,1
+paciente_693,normopeso,22.77,22,0,1,0,1,1
+paciente_694,normopeso,24.89,21,0,1,1,1,0
+paciente_695,normopeso,20.83,23,1,0,1,1,1
+paciente_696,normopeso,22.14,18,1,0,1,1,0
+paciente_697,obesidad I,31.02,29,0,1,1,1,1
+paciente_698,sobrepeso,28.9,28,1,1,0,1,1
+paciente_699,normopeso,24.76,22,1,1,0,1,1
+paciente_700,obesidad III,42.55,25,0,0,1,0,0
+paciente_701,sobrepeso,26.65,28,0,1,1,1,0
+paciente_702,normopeso,19.92,24,0,0,1,1,1
+paciente_703,sobrepeso,26.91,28,1,1,0,0,1
+paciente_704,normopeso,21.17,19,1,1,0,0,1
+paciente_705,normopeso,23.53,23,1,1,0,1,0
+paciente_706,sobrepeso,27.95,27,1,1,0,0,1
+paciente_707,sobrepeso,27.5,29,1,1,1,1,0
+paciente_708,normopeso,24.6,19,0,0,1,1,1
+paciente_709,sobrepeso,29.64,27,1,1,1,0,1
+paciente_710,obesidad I,31.49,28,0,1,1,0,1
+paciente_711,normopeso,18.84,22,0,1,0,1,1
+paciente_712,normopeso,23.79,23,0,0,1,0,1
+paciente_713,normopeso,23.8,23,1,0,0,1,1
+paciente_714,obesidad I,34.12,27,0,1,1,1,0
+paciente_715,obesidad I,30.18,29,0,0,0,1,1
+paciente_716,normopeso,23.38,19,1,1,0,0,1
+paciente_717,bajo peso,18.21,17,0,1,1,0,0
+paciente_718,obesidad III,44.06,26,1,1,0,0,0
+paciente_719,sobrepeso,25.23,29,1,1,1,0,0
+paciente_720,normopeso,20.1,22,1,0,0,0,0
+paciente_721,normopeso,24.16,21,1,0,1,1,0
+paciente_722,obesidad III,44.37,27,0,0,0,1,0
+paciente_723,normopeso,22.59,20,1,1,1,1,1
+paciente_724,sobrepeso,28.0,29,0,1,0,0,0
+paciente_725,obesidad III,42.66,27,0,1,0,1,0
+paciente_726,normopeso,21.97,18,1,1,0,1,1
+paciente_727,normopeso,19.27,20,1,0,0,1,1
+paciente_728,normopeso,24.01,21,1,0,1,0,1
+paciente_729,normopeso,19.9,20,1,0,1,0,1
+paciente_730,normopeso,22.76,22,1,0,1,1,0
+paciente_731,normopeso,23.24,22,1,0,0,1,0
+paciente_732,obesidad III,43.05,26,0,0,0,0,0
+paciente_733,normopeso,20.35,19,0,1,0,0,1
+paciente_734,normopeso,24.49,18,1,0,1,1,0
+paciente_735,obesidad III,41.35,27,1,0,0,0,1
+paciente_736,normopeso,20.73,21,0,0,1,1,0
+paciente_737,normopeso,20.37,19,0,0,1,1,0
+paciente_738,sobrepeso,25.37,27,0,0,0,0,1
+paciente_739,obesidad I,30.63,27,1,1,1,0,1
+paciente_740,normopeso,22.38,20,1,1,0,0,0
+paciente_741,obesidad III,42.18,29,0,1,0,1,0
+paciente_742,normopeso,21.34,24,1,0,1,1,1
+paciente_743,obesidad I,32.26,27,1,0,1,0,1
+paciente_744,obesidad III,40.78,28,1,0,0,1,0
+paciente_745,obesidad I,30.89,25,0,1,1,1,0
+paciente_746,bajo peso,16.72,16,0,0,0,1,1
+paciente_747,sobrepeso,29.73,29,0,0,1,0,0
+paciente_748,normopeso,20.09,24,0,1,1,1,1
+paciente_749,sobrepeso,25.31,28,1,0,0,1,1
+paciente_750,sobrepeso,25.4,28,0,0,0,0,0
+paciente_751,normopeso,24.21,24,0,0,0,1,0
+paciente_752,normopeso,19.95,23,1,0,0,1,1
+paciente_753,sobrepeso,28.7,26,0,0,1,0,0
+paciente_754,obesidad I,33.34,29,0,0,1,1,0
+paciente_755,obesidad I,33.05,26,1,0,1,0,0
+paciente_756,sobrepeso,26.53,29,0,0,1,0,1
+paciente_757,obesidad I,32.24,27,0,0,0,1,0
+paciente_758,obesidad III,41.46,28,0,1,0,0,0
+paciente_759,obesidad III,44.44,28,0,1,1,1,0
+paciente_760,normopeso,19.53,21,0,0,0,1,1
+paciente_761,obesidad I,32.03,27,1,1,0,0,0
+paciente_762,obesidad III,40.79,28,0,1,0,1,1
+paciente_763,obesidad III,44.95,27,1,1,0,0,0
+paciente_764,obesidad III,40.79,29,0,1,1,0,1
+paciente_765,sobrepeso,28.28,29,1,0,1,0,1
+paciente_766,sobrepeso,26.24,28,0,1,0,1,1
+paciente_767,sobrepeso,27.41,27,0,0,0,0,0
+paciente_768,normopeso,21.48,20,1,1,1,0,1
+paciente_769,normopeso,23.79,23,0,1,0,0,1
+paciente_770,sobrepeso,29.4,25,1,1,0,1,0
+paciente_771,normopeso,18.91,19,0,1,0,1,1
+paciente_772,bajo peso,16.35,17,0,1,1,0,1
+paciente_773,sobrepeso,29.8,29,1,0,1,0,0
+paciente_774,normopeso,24.54,20,0,1,0,0,0
+paciente_775,normopeso,24.66,22,0,1,1,0,0
+paciente_776,normopeso,24.89,24,0,0,0,0,1
+paciente_777,normopeso,21.63,21,0,1,0,0,1
+paciente_778,normopeso,22.49,21,1,1,1,0,1
+paciente_779,normopeso,20.55,21,0,0,1,1,0
+paciente_780,normopeso,20.63,20,1,1,0,1,0
+paciente_781,obesidad III,42.6,29,1,1,0,0,0
+paciente_782,normopeso,22.53,20,1,1,0,0,0
+paciente_783,obesidad I,31.64,28,0,1,0,0,1
+paciente_784,normopeso,23.77,24,1,0,1,0,0
+paciente_785,obesidad III,42.93,28,0,0,0,1,1
+paciente_786,normopeso,21.82,19,1,0,1,0,0
+paciente_787,obesidad I,33.02,26,1,1,1,1,1
+paciente_788,sobrepeso,29.16,26,1,0,0,1,1
+paciente_789,obesidad III,43.32,27,0,0,1,1,0
+paciente_790,normopeso,19.12,19,1,0,0,1,1
+paciente_791,sobrepeso,29.6,25,1,0,0,0,1
+paciente_792,normopeso,24.42,18,1,0,0,0,0
+paciente_793,sobrepeso,27.32,28,1,0,1,1,0
+paciente_794,obesidad I,33.94,29,1,0,0,0,0
+paciente_795,normopeso,18.87,22,0,1,0,1,1
+paciente_796,obesidad III,44.47,25,0,0,1,0,1
+paciente_797,normopeso,23.05,20,0,1,0,0,1
+paciente_798,sobrepeso,26.81,29,0,1,0,0,0
+paciente_799,normopeso,18.6,21,1,0,0,0,0
+paciente_800,normopeso,24.68,24,0,1,0,0,1
+paciente_801,obesidad I,34.59,28,0,0,1,0,0
+paciente_802,sobrepeso,25.6,26,1,0,1,1,1
+paciente_803,normopeso,19.73,23,1,0,1,1,1
+paciente_804,normopeso,21.73,18,1,0,1,1,0
+paciente_805,sobrepeso,29.85,27,0,0,1,1,0
+paciente_806,normopeso,23.85,22,0,0,1,0,0
+paciente_807,normopeso,20.14,20,0,1,1,0,1
+paciente_808,sobrepeso,28.51,28,0,1,1,1,0
+paciente_809,normopeso,22.26,20,0,1,1,1,0
+paciente_810,normopeso,24.38,24,0,0,0,1,0
+paciente_811,sobrepeso,27.36,25,1,0,0,1,1
+paciente_812,normopeso,23.8,21,0,1,1,1,0
+paciente_813,sobrepeso,27.91,28,0,0,0,1,0
+paciente_814,normopeso,24.19,21,1,0,0,0,1
+paciente_815,normopeso,21.33,23,1,1,0,0,1
+paciente_816,obesidad I,33.92,25,0,1,0,0,1
+paciente_817,sobrepeso,28.46,29,1,0,1,0,0
+paciente_818,normopeso,23.44,21,0,1,1,1,1
+paciente_819,normopeso,23.23,24,1,0,1,1,0
+paciente_820,sobrepeso,26.93,25,0,1,0,1,1
+paciente_821,normopeso,23.78,22,1,1,0,0,0
+paciente_822,normopeso,21.59,24,0,0,1,1,1
+paciente_823,normopeso,19.55,24,1,0,0,1,1
+paciente_824,obesidad I,30.34,28,0,0,0,1,0
+paciente_825,obesidad III,42.72,25,1,0,1,1,0
+paciente_826,bajo peso,17.76,17,0,0,0,1,1
+paciente_827,sobrepeso,28.01,29,1,1,1,0,1
+paciente_828,normopeso,18.71,19,0,1,1,0,1
+paciente_829,normopeso,23.85,24,1,1,1,1,0
+paciente_830,normopeso,23.3,22,0,0,0,0,0
+paciente_831,normopeso,18.97,19,0,0,1,0,1
+paciente_832,normopeso,24.25,20,0,1,0,1,1
+paciente_833,sobrepeso,27.41,25,1,1,0,0,1
+paciente_834,normopeso,20.76,21,1,1,0,1,0
+paciente_835,sobrepeso,26.77,29,1,0,1,0,0
+paciente_836,obesidad I,34.42,26,1,0,0,0,1
+paciente_837,normopeso,20.19,23,0,0,0,1,0
+paciente_838,normopeso,22.43,18,1,1,1,1,0
+paciente_839,obesidad III,43.84,28,0,1,1,0,0
+paciente_840,normopeso,21.62,24,1,0,0,0,1
+paciente_841,normopeso,19.63,23,0,1,1,1,0
+paciente_842,obesidad III,40.21,29,0,1,1,1,0
+paciente_843,obesidad III,42.67,26,1,1,0,1,1
+paciente_844,sobrepeso,26.54,25,1,1,0,1,0
+paciente_845,normopeso,22.92,24,1,1,1,1,1
+paciente_846,obesidad I,32.22,29,0,1,0,0,0
+paciente_847,normopeso,19.53,21,1,0,1,0,0
+paciente_848,normopeso,22.08,22,1,1,1,1,1
+paciente_849,normopeso,22.3,19,1,1,1,0,1
+paciente_850,normopeso,19.18,19,1,0,0,0,1
+paciente_851,normopeso,23.99,18,0,0,0,0,0
+paciente_852,normopeso,21.37,21,1,0,0,1,0
+paciente_853,obesidad III,40.17,27,0,0,1,0,0
+paciente_854,sobrepeso,29.1,27,0,1,1,0,1
+paciente_855,normopeso,24.1,23,0,1,1,1,0
+paciente_856,sobrepeso,28.3,25,1,0,0,0,1
+paciente_857,normopeso,20.1,22,1,1,1,0,0
+paciente_858,normopeso,20.72,20,0,0,0,1,1
+paciente_859,sobrepeso,25.55,25,1,0,1,0,1
+paciente_860,normopeso,24.62,22,1,1,0,1,1
+paciente_861,sobrepeso,26.91,27,1,1,0,1,0
+paciente_862,bajo peso,16.54,16,1,0,1,1,0
+paciente_863,sobrepeso,29.68,27,0,1,1,1,0
+paciente_864,normopeso,23.34,18,0,0,0,1,1
+paciente_865,sobrepeso,25.48,26,1,1,0,1,0
+paciente_866,normopeso,24.14,19,0,0,1,0,0
+paciente_867,normopeso,21.36,22,1,1,0,0,1
+paciente_868,normopeso,22.86,22,0,0,1,1,0
+paciente_869,sobrepeso,25.64,28,0,0,0,0,1
+paciente_870,obesidad I,32.58,28,0,1,0,1,0
+paciente_871,obesidad III,41.24,29,1,0,1,1,1
+paciente_872,sobrepeso,29.08,28,0,1,0,0,0
+paciente_873,sobrepeso,29.45,29,1,1,0,1,0
+paciente_874,obesidad III,41.33,28,1,1,0,1,1
+paciente_875,sobrepeso,27.03,27,1,0,0,1,1
+paciente_876,sobrepeso,27.9,27,0,1,1,1,1
+paciente_877,obesidad III,44.3,27,1,0,0,1,1
+paciente_878,normopeso,24.88,23,0,1,1,0,1
+paciente_879,obesidad III,42.64,28,0,0,0,0,1
+paciente_880,normopeso,21.2,24,0,0,1,1,1
+paciente_881,sobrepeso,27.05,25,0,1,1,0,1
+paciente_882,obesidad I,30.65,26,0,1,1,1,0
+paciente_883,obesidad III,41.8,25,0,1,1,0,0
+paciente_884,normopeso,22.9,23,0,0,0,0,0
+paciente_885,obesidad I,31.42,26,0,1,0,0,0
+paciente_886,normopeso,24.32,18,0,0,1,1,0
+paciente_887,obesidad III,41.1,26,0,1,1,0,0
+paciente_888,obesidad III,42.76,27,0,1,0,1,0
+paciente_889,normopeso,19.97,20,0,1,1,0,1
+paciente_890,obesidad III,41.1,25,1,0,0,0,0
+paciente_891,normopeso,19.32,23,0,0,0,0,1
+paciente_892,bajo peso,16.05,16,1,0,0,0,0
+paciente_893,normopeso,18.95,22,0,1,0,1,1
+paciente_894,normopeso,23.5,24,0,0,1,0,1
+paciente_895,normopeso,20.15,21,1,0,1,1,1
+paciente_896,sobrepeso,25.26,28,1,1,1,1,0
+paciente_897,sobrepeso,29.58,25,0,1,1,1,1
+paciente_898,obesidad I,32.78,26,0,0,0,0,1
+paciente_899,normopeso,22.16,23,1,0,0,1,1
+paciente_900,obesidad III,44.94,26,0,1,0,0,0
+paciente_901,obesidad I,30.81,27,0,0,0,0,0
+paciente_902,obesidad I,33.04,28,0,1,0,0,1
+paciente_903,normopeso,24.18,21,0,0,0,0,0
+paciente_904,normopeso,23.72,22,0,0,1,0,0
+paciente_905,obesidad I,33.74,26,1,0,0,0,0
+paciente_906,obesidad I,30.7,26,1,0,0,0,1
+paciente_907,sobrepeso,29.14,29,0,0,0,0,0
+paciente_908,obesidad I,31.73,29,0,1,0,1,1
+paciente_909,obesidad III,43.22,25,1,0,0,0,0
+paciente_910,normopeso,23.06,24,0,0,1,0,1
+paciente_911,normopeso,24.06,24,1,0,0,1,1
+paciente_912,normopeso,20.76,21,0,0,1,0,1
+paciente_913,sobrepeso,27.63,27,1,1,1,0,0
+paciente_914,normopeso,24.5,23,0,0,1,0,0
+paciente_915,normopeso,24.7,19,0,1,1,1,1
+paciente_916,normopeso,22.07,24,0,0,0,0,1
+paciente_917,normopeso,19.34,19,1,1,1,0,0
+paciente_918,bajo peso,17.41,16,1,0,0,1,0
+paciente_919,bajo peso,17.58,17,0,0,1,1,0
+paciente_920,normopeso,19.61,21,1,0,1,0,1
+paciente_921,sobrepeso,28.12,27,1,0,0,0,0
+paciente_922,normopeso,21.96,23,1,0,0,0,0
+paciente_923,normopeso,24.75,20,0,1,1,1,1
+paciente_924,normopeso,19.44,23,1,1,1,1,1
+paciente_925,normopeso,21.0,20,1,1,1,0,1
+paciente_926,sobrepeso,27.83,25,1,0,0,0,0
+paciente_927,normopeso,19.24,19,1,1,1,1,0
+paciente_928,sobrepeso,28.14,27,1,0,1,1,1
+paciente_929,obesidad III,42.09,29,1,1,1,1,1
+paciente_930,normopeso,22.51,23,1,0,0,0,0
+paciente_931,obesidad I,31.27,29,1,1,1,0,1
+paciente_932,sobrepeso,25.48,26,0,1,1,1,0
+paciente_933,sobrepeso,27.12,28,0,1,1,0,1
+paciente_934,normopeso,21.9,21,0,1,1,0,0
+paciente_935,sobrepeso,28.68,27,1,1,0,0,0
+paciente_936,normopeso,19.53,22,1,1,0,0,1
+paciente_937,normopeso,24.62,23,0,0,0,1,0
+paciente_938,obesidad I,33.37,29,0,1,0,0,1
+paciente_939,normopeso,18.89,21,0,1,0,1,1
+paciente_940,sobrepeso,28.61,28,1,0,0,1,1
+paciente_941,normopeso,20.56,22,0,1,0,0,0
+paciente_942,bajo peso,17.19,17,0,0,1,0,0
+paciente_943,obesidad I,30.86,29,0,1,0,0,1
+paciente_944,sobrepeso,29.05,26,0,1,0,1,1
+paciente_945,normopeso,19.31,21,1,1,1,1,1
+paciente_946,obesidad III,42.4,26,0,0,0,0,0
+paciente_947,obesidad III,43.8,26,0,0,0,0,1
+paciente_948,normopeso,24.79,19,1,1,1,1,0
+paciente_949,sobrepeso,29.73,27,1,1,1,1,1
+paciente_950,sobrepeso,28.43,28,0,0,1,1,0
+paciente_951,sobrepeso,28.22,27,1,0,0,0,1
+paciente_952,normopeso,21.14,24,0,0,1,1,1
+paciente_953,normopeso,23.13,20,1,0,0,1,1
+paciente_954,obesidad III,44.11,27,1,0,0,0,0
+paciente_955,obesidad III,43.41,27,1,1,0,0,1
+paciente_956,sobrepeso,27.18,29,0,0,1,1,0
+paciente_957,sobrepeso,25.08,26,1,0,1,1,1
+paciente_958,obesidad III,44.03,25,0,1,1,1,0
+paciente_959,normopeso,18.71,23,1,1,1,0,0
+paciente_960,obesidad III,40.77,26,0,1,0,1,0
+paciente_961,sobrepeso,28.76,27,1,0,0,1,1
+paciente_962,sobrepeso,28.93,29,0,1,1,1,0
+paciente_963,sobrepeso,26.03,29,0,1,0,1,0
+paciente_964,sobrepeso,29.38,25,1,1,1,0,1
+paciente_965,obesidad I,31.1,26,0,1,0,1,1
+paciente_966,sobrepeso,28.47,27,1,0,1,1,0
+paciente_967,sobrepeso,28.12,29,0,0,0,0,0
+paciente_968,normopeso,19.59,23,0,1,0,1,1
+paciente_969,normopeso,22.26,18,0,1,0,1,0
+paciente_970,sobrepeso,26.95,27,1,1,0,1,0
+paciente_971,obesidad III,41.43,26,1,1,1,0,1
+paciente_972,sobrepeso,26.62,29,0,0,1,1,1
+paciente_973,normopeso,20.8,22,0,0,1,1,0
+paciente_974,obesidad III,40.26,26,1,0,0,0,1
+paciente_975,sobrepeso,28.62,26,0,1,1,0,1
+paciente_976,sobrepeso,25.79,28,0,1,0,1,1
+paciente_977,normopeso,22.85,19,1,1,0,0,0
+paciente_978,sobrepeso,29.69,28,1,0,0,1,0
+paciente_979,normopeso,18.5,23,1,0,0,0,1
+paciente_980,sobrepeso,28.44,29,1,1,1,1,0
+paciente_981,sobrepeso,29.07,29,0,0,1,0,0
+paciente_982,obesidad I,34.77,28,0,0,1,1,0
+paciente_983,bajo peso,16.57,16,0,0,1,0,1
+paciente_984,sobrepeso,25.23,26,1,1,0,1,0
+paciente_985,normopeso,19.38,18,0,0,1,1,1
+paciente_986,sobrepeso,26.37,26,0,1,0,1,1
+paciente_987,obesidad I,32.23,25,0,0,0,0,0
+paciente_988,sobrepeso,27.04,27,1,1,0,1,0
+paciente_989,obesidad I,30.28,27,1,1,1,0,1
+paciente_990,obesidad I,33.95,26,1,1,0,1,0
+paciente_991,normopeso,24.88,19,0,0,0,0,0
+paciente_992,obesidad III,43.51,26,1,0,0,1,0
+paciente_993,obesidad III,44.41,29,0,1,0,0,0
+paciente_994,obesidad III,40.88,26,0,0,0,0,0
+paciente_995,normopeso,24.02,19,0,1,1,1,1
+paciente_996,obesidad I,33.02,25,1,0,0,1,0
+paciente_997,normopeso,20.54,24,1,0,1,1,0
+paciente_998,normopeso,20.92,21,1,1,0,1,1
+paciente_999,normopeso,20.75,21,1,1,0,1,0
+paciente_1000,normopeso,23.85,20,0,1,0,0,1
+paciente_1001,obesidad III,40.3,26,0,1,1,1,0
+paciente_1002,sobrepeso,28.67,28,1,0,0,1,0
+paciente_1003,normopeso,19.38,23,0,1,0,1,1
+paciente_1004,sobrepeso,27.34,25,1,1,0,0,1
+paciente_1005,sobrepeso,27.92,25,1,0,1,1,0
+paciente_1006,sobrepeso,27.91,29,0,0,1,1,1
+paciente_1007,normopeso,19.38,22,1,0,1,1,0
+paciente_1008,obesidad III,43.17,29,0,1,0,1,1
+paciente_1009,sobrepeso,26.78,27,1,0,1,0,0
+paciente_1010,obesidad I,33.71,26,1,0,0,1,0
+paciente_1011,normopeso,22.1,18,0,1,1,0,0
+paciente_1012,obesidad I,32.17,29,1,0,1,1,1
+paciente_1013,sobrepeso,29.49,29,0,1,1,1,0
+paciente_1014,sobrepeso,25.42,27,1,1,0,1,1
+paciente_1015,sobrepeso,28.63,29,1,1,1,0,0
+paciente_1016,sobrepeso,28.14,27,0,1,1,1,0
+paciente_1017,bajo peso,17.58,17,0,0,0,0,1
+paciente_1018,normopeso,23.71,24,1,0,1,1,0
+paciente_1019,normopeso,20.68,20,1,0,0,0,0
+paciente_1020,normopeso,24.31,18,1,0,0,1,1
+paciente_1021,sobrepeso,25.48,26,1,1,1,1,0
+paciente_1022,obesidad I,33.43,28,1,0,1,0,0
+paciente_1023,sobrepeso,25.23,28,0,0,1,1,1
+paciente_1024,sobrepeso,28.77,28,0,0,1,0,0
+paciente_1025,sobrepeso,26.52,27,0,1,1,1,0
+paciente_1026,sobrepeso,26.95,29,0,0,0,1,0
+paciente_1027,normopeso,22.32,20,1,1,0,1,0
+paciente_1028,sobrepeso,27.34,29,0,0,1,0,1
+paciente_1029,normopeso,19.02,23,1,0,0,1,1
+paciente_1030,normopeso,23.53,20,1,1,1,0,1
+paciente_1031,normopeso,24.37,20,1,0,1,0,1
+paciente_1032,sobrepeso,28.28,25,0,1,1,0,1
+paciente_1033,normopeso,21.43,20,1,1,1,1,1
+paciente_1034,normopeso,24.8,23,1,1,1,0,1
+paciente_1035,obesidad I,32.19,29,1,1,1,0,0
+paciente_1036,sobrepeso,26.31,25,0,0,0,1,0
+paciente_1037,normopeso,24.79,23,0,1,0,1,1
+paciente_1038,obesidad I,32.08,27,1,0,0,0,1
+paciente_1039,sobrepeso,27.13,27,0,1,0,1,0
+paciente_1040,obesidad I,34.88,29,1,1,0,0,0
+paciente_1041,normopeso,24.5,18,1,0,0,0,1
+paciente_1042,normopeso,21.71,20,0,1,0,1,1
+paciente_1043,obesidad I,33.37,29,1,1,0,1,0
+paciente_1044,obesidad I,33.27,28,1,0,0,0,0
+paciente_1045,obesidad I,32.21,26,1,1,1,0,1
+paciente_1046,normopeso,23.98,19,0,0,0,1,1
+paciente_1047,obesidad III,42.01,28,1,1,0,0,1
+paciente_1048,normopeso,19.99,19,1,1,1,1,0
+paciente_1049,normopeso,22.62,18,0,0,1,0,1
+paciente_1050,obesidad III,41.36,26,0,0,0,0,1
