@@ -151,7 +151,7 @@ Ordinal,Nombre,grupo,edad,antigüedad,Extranjero,Casado,Hijos,Usa lentes,toma_al
 150,Héctor Durán Guerrero,Logistica,42,24,0,1,3,1,0,0
 151,Enrique Segovia Ortiz,Investigación,25,2,1,1,3,0,1,1
 152,Marisol Flórez Valverde,Logistica,31,1,1,0,1,0,2,0
-153,Adalberto Zúñiga Corral,Produccion,22,5,0,1,0,1,1,1
+153,Adalberto Zúñiga Corral,Produccion,22,4,0,1,0,1,1,1
 154,Rodolfo Quesada Barajas,Logistica,41,20,0,0,0,1,2,2
 155,Leonardo Rosario Vera,Produccion,34,2,1,0,0,1,0,0
 156,Porfirio Ontiveros Canales,Produccion,41,23,0,1,3,0,1,0
@@ -356,7 +356,7 @@ Ordinal,Nombre,grupo,edad,antigüedad,Extranjero,Casado,Hijos,Usa lentes,toma_al
 355,Florencia Báez Olvera,Produccion,23,3,1,0,1,0,1,0
 356,Frida Varela Pedroza,Ejecutivo,29,4,0,0,1,0,1,2
 357,Hermelinda Yáñez Meraz,Investigación,43,23,1,1,1,1,1,0
-358,Nelly Merino Llamas,Logistica,22,5,1,1,1,0,0,0
+358,Nelly Merino Llamas,Logistica,22,4,1,1,1,0,0,0
 359,Eva de León Lara,Logistica,38,18,1,1,1,1,1,0
 360,Alfonso Camarillo Salcedo,Produccion,35,1,0,0,0,1,2,0
 361,Francisca Padilla Quintanilla,Logistica,29,5,0,1,1,0,1,1
@@ -450,7 +450,7 @@ Ordinal,Nombre,grupo,edad,antigüedad,Extranjero,Casado,Hijos,Usa lentes,toma_al
 449,Pedro Acevedo Colunga,Produccion,29,1,0,0,0,0,0,0
 450,Pablo Mora Rosario,Logistica,25,5,1,1,0,1,1,1
 451,Rebeca Briseño Viera,Logistica,47,22,0,1,0,1,1,1
-452,Adalberto Barreto Noriega,Logistica,22,5,0,0,0,1,1,2
+452,Adalberto Barreto Noriega,Logistica,22,4,0,0,0,1,1,2
 453,Alberto Salas Tijerina,Ejecutivo,25,4,0,1,2,1,0,1
 454,Bianca Alemán Guevara,Ventas,22,1,0,0,1,0,1,2
 455,Esmeralda Patiño Serrato,Ejecutivo,39,20,0,0,0,1,1,1
