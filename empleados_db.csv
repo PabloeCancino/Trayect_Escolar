@@ -1,501 +1,501 @@
-Ordinal,Nombre,grupo,edad,antig¸edad,Extranjero,Casado,Hijos,Usa lentes,toma_alcohol,satisf_laboral
-1,DÈbora Esparza Angulo,Produccion,56,25,1,1,2,1,1,0
+Ordinal,Nombre,grupo,edad,antig√ºedad,Extranjero,Casado,Hijos,Usa lentes,toma_alcohol,satisf_laboral
+1,D√©bora Esparza Angulo,Produccion,56,25,1,1,2,1,1,0
 2,Armando Alcala Miramontes,Logistica,42,19,0,0,1,0,0,0
-3,Alicia de la Rosa Almonte,InvestigaciÛn,51,27,1,0,0,0,0,2
+3,Alicia de la Rosa Almonte,Investigaci√≥n,51,27,1,0,0,0,0,2
 4,Amanda Ibarra de la Fuente,Logistica,54,32,0,1,0,1,0,0
 5,Timoteo Carmona Valverde,Produccion,28,2,0,0,1,0,0,0
-6,Amalia Guerra Sosa,Ventas,39,21,1,0,0,1,1,0
-7,Dulce MarÌa Colunga Z˙Òiga,Logistica,31,5,0,0,0,0,1,0
-8,Zeferino CarriÛn Olivera,Produccion,23,3,0,0,0,1,2,2
-9,Aurora Altamirano RodrÌgez,Logistica,26,5,0,1,3,0,0,1
+6,Amalia Guerra Sosa,Ventas,39,13,1,0,0,1,1,0
+7,Dulce Mar√≠a Colunga Z√∫√±iga,Logistica,31,5,0,0,0,0,1,0
+8,Zeferino Carri√≥n Olivera,Produccion,23,3,0,0,0,1,2,2
+9,Aurora Altamirano Rodr√≠gez,Logistica,26,5,0,1,3,0,0,1
 10,Ruby Saiz Cortez,Produccion,35,3,1,1,3,0,0,0
-11,Dulce Ch·vez MondragÛn,Produccion,59,22,1,1,2,0,1,1
-12,Leticia Ocampo GodÌnez,InvestigaciÛn,23,4,1,1,0,0,0,0
-13,Cornelio Mesa PeÒa,Logistica,27,3,1,0,1,0,2,1
-14,Timoteo Pacheco ¡vila,Ventas,36,18,0,1,3,0,0,0
+11,Dulce Ch√°vez Mondrag√≥n,Produccion,59,22,1,1,2,0,1,1
+12,Leticia Ocampo God√≠nez,Investigaci√≥n,23,4,1,1,0,0,0,0
+13,Cornelio Mesa Pe√±a,Logistica,27,3,1,0,1,0,2,1
+14,Timoteo Pacheco √Åvila,Ventas,36,18,0,1,3,0,0,0
 15,Andrea Roque Soliz,Logistica,30,2,0,0,0,1,0,2
 16,Daniel Santana Ozuna,Logistica,53,21,0,1,0,0,0,0
 17,Rufino Monroy Trujillo,Ventas,53,27,1,1,1,0,1,0
-18,JosÈ Emilio Pacheco de la Rosa,Logistica,30,1,0,0,0,0,0,0
-19,Cristobal Abreu AlarcÛn,Logistica,25,5,0,0,1,1,2,0
+18,Jos√© Emilio Pacheco de la Rosa,Logistica,30,1,0,0,0,0,0,0
+19,Cristobal Abreu Alarc√≥n,Logistica,25,5,0,0,1,1,2,0
 20,Pedro Apodaca Chapa,Ventas,44,21,0,1,1,1,1,1
-21,MÛnica Covarrubias UreÒa,Ventas,41,18,1,1,0,0,1,1
+21,M√≥nica Covarrubias Ure√±a,Ventas,41,18,1,1,0,0,1,1
 22,Patricio de la Torre Zepeda,Logistica,32,2,1,1,3,0,0,0
 23,Dalia Vigil Ceja,Logistica,32,2,0,1,0,1,0,0
-24,Juan BriseÒo Miranda,Produccion,32,2,1,0,0,0,0,0
+24,Juan Brise√±o Miranda,Produccion,32,2,1,0,0,0,0,0
 25,Homero Cedillo Solorio,Logistica,29,1,0,1,0,1,0,0
 26,Gabriela Quintanilla Granado,Logistica,29,5,1,0,0,0,2,0
 27,Arcelia Raya Rubio,Produccion,38,20,0,1,2,1,1,0
 28,Yeni Casillas Casillas,Logistica,23,5,0,0,1,0,2,1
-29,Emilia BaÒuelos Palomo,Logistica,55,18,0,1,0,1,0,1
-30,DarÌo CarriÛn TreviÒo,Produccion,56,37,0,1,2,1,1,1
-31,MarÌa Teresa GastÈlum BerrÌos,Logistica,59,40,0,1,2,0,0,1
+29,Emilia Ba√±uelos Palomo,Logistica,55,18,0,1,0,1,0,1
+30,Dar√≠o Carri√≥n Trevi√±o,Produccion,56,37,0,1,2,1,1,1
+31,Mar√≠a Teresa Gast√©lum Berr√≠os,Logistica,59,40,0,1,2,0,0,1
 32,Eduardo Montoya Ocampo,Produccion,31,5,1,1,1,0,1,0
 33,Irma Rocha Pulido,Logistica,42,21,0,0,1,1,1,0
-34,Gabino Barajas Samaniego,InvestigaciÛn,41,22,0,1,3,1,0,1
-35,Leticia DueÒas Olmos,Logistica,49,27,1,1,3,0,1,0
-36,Leonor Aguirre V·squez,Produccion,44,23,0,1,0,0,1,1
-37,Daniel Ceja Gracia,InvestigaciÛn,58,35,1,0,1,0,2,0
-38,Julio CÈsar Salinas Hinojosa,Ventas,25,2,1,1,1,0,1,1
-39,JosÈ ManuÈl Olivas Salcedo,Logistica,34,2,0,1,1,1,0,1
-40,RenÈ Viera CarriÛn,Logistica,50,20,1,0,1,1,1,2
-41,JosÈ Carlos Vel·zquez ¡valos,Produccion,47,26,0,1,2,0,1,0
+34,Gabino Barajas Samaniego,Investigaci√≥n,41,22,0,1,3,1,0,1
+35,Leticia Due√±as Olmos,Logistica,49,27,1,1,3,0,1,0
+36,Leonor Aguirre V√°squez,Produccion,44,23,0,1,0,0,1,1
+37,Daniel Ceja Gracia,Investigaci√≥n,58,35,1,0,1,0,2,0
+38,Julio C√©sar Salinas Hinojosa,Ventas,25,2,1,1,1,0,1,1
+39,Jos√© Manu√©l Olivas Salcedo,Logistica,34,2,0,1,1,1,0,1
+40,Ren√© Viera Carri√≥n,Logistica,50,20,1,0,1,1,1,2
+41,Jos√© Carlos Vel√°zquez √Åvalos,Produccion,47,26,0,1,2,0,1,0
 42,Ofelia Lozano Cornejo,Produccion,42,18,1,0,1,1,1,0
 43,Teodoro Chapa Valdivia,Produccion,24,2,0,0,0,0,1,0
 44,Luz Olvera Naranjo,Logistica,48,18,1,0,1,0,0,1
-45,RenÈ Galindo Oliv·rez,Produccion,30,3,1,0,1,0,0,0
-46,Rodrigo S·nchez Lovato,Logistica,29,5,0,1,2,1,1,1
-47,AndrÈs Soria Mora,Ventas,52,27,0,1,0,1,0,1
+45,Ren√© Galindo Oliv√°rez,Produccion,30,3,1,0,1,0,0,0
+46,Rodrigo S√°nchez Lovato,Logistica,29,5,0,1,2,1,1,1
+47,Andr√©s Soria Mora,Ventas,52,27,0,1,0,1,0,1
 48,Adela Castro Salazar,Produccion,53,34,0,1,0,1,0,1
-49,Aurora M·rquez Regalado,InvestigaciÛn,57,36,0,0,0,0,2,2
-50,Humberto Cas·rez MascareÒas,Logistica,55,21,1,1,2,1,0,1
+49,Aurora M√°rquez Regalado,Investigaci√≥n,57,36,0,0,0,0,2,2
+50,Humberto Cas√°rez Mascare√±as,Logistica,55,21,1,1,2,1,0,1
 51,Raquel Montez Caraballo,Ventas,49,21,1,0,0,0,2,1
 52,Homero Lozada Salcedo,Logistica,55,35,0,1,0,1,0,1
 53,Jaime Batista Tello,Logistica,43,25,1,0,0,1,1,0
-54,Micaela Lucero Batista,InvestigaciÛn,42,18,0,0,1,0,1,2
+54,Micaela Lucero Batista,Investigaci√≥n,42,18,0,0,1,0,1,2
 55,Anel Leal Varela,Logistica,56,18,1,1,0,1,0,0
-56,Carmen RendÛn Cerv·ntez,Logistica,27,3,0,1,0,0,1,0
+56,Carmen Rend√≥n Cerv√°ntez,Logistica,27,3,0,1,0,0,1,0
 57,Rebeca Ybarra Pacheco,Produccion,47,29,0,0,0,1,2,2
-58,Paulina Maestas Perales,InvestigaciÛn,29,2,0,0,1,1,1,0
+58,Paulina Maestas Perales,Investigaci√≥n,29,2,0,0,1,1,1,0
 59,Santiago Portillo Guardado,Logistica,38,19,0,1,1,1,0,0
-60,EstefanÌa S·enz Guerra,Logistica,47,29,0,0,0,1,0,0
-61,MarÌa Teresa Toro Y·Òez,Logistica,37,19,1,0,0,0,0,0
+60,Estefan√≠a S√°enz Guerra,Logistica,47,29,0,0,0,1,0,0
+61,Mar√≠a Teresa Toro Y√°√±ez,Logistica,37,19,1,0,0,0,0,0
 62,Alfonso Anaya Escamilla,Produccion,42,23,0,0,0,0,0,2
-63,Sandra GirÛn Garay,Produccion,52,26,1,0,1,1,2,1
+63,Sandra Gir√≥n Garay,Produccion,52,26,1,0,1,1,2,1
 64,Ruby Quiroz Otero,Logistica,42,18,1,0,0,0,1,0
 65,Leticia Carbajal Tamez,Produccion,54,20,1,1,0,1,1,0
 66,Samuel Carrillo Moya,Produccion,51,28,0,0,0,1,0,1
 67,Elvira Mendoza Mota,Produccion,54,33,1,1,0,0,0,0
-68,RamÛn Barrientos Cordero,Logistica,56,18,1,0,1,0,2,1
-69,SofÌa Otero Mota,Logistica,28,4,1,0,1,1,2,1
+68,Ram√≥n Barrientos Cordero,Logistica,56,18,1,0,1,0,2,1
+69,Sof√≠a Otero Mota,Logistica,28,4,1,0,1,1,2,1
 70,Mayte Zavala Garibay,Logistica,49,19,1,1,2,0,0,1
-71,Anel JimÈnez Bahena,Ventas,36,18,1,0,1,0,1,0
+71,Anel Jim√©nez Bahena,Ventas,36,18,1,0,1,0,1,0
 72,Blanca Barraza Zapata,Produccion,31,2,1,0,0,1,0,0
 73,Horacio Roybal Contreras,Logistica,55,35,1,0,0,0,2,2
 74,Estela Godoy Corral,Logistica,42,18,0,0,0,1,2,1
-75,Camila Moreno VillagÛmez,Logistica,44,18,0,0,0,1,1,2
+75,Camila Moreno Villag√≥mez,Logistica,44,18,0,0,0,1,1,2
 76,Rodolfo Bravo Aguilar,Logistica,30,5,1,0,0,1,0,1
-77,Diana HenrÌquez PadrÛn,Produccion,43,19,1,1,3,0,0,1
-78,Judith Arteaga TreviÒo,Logistica,32,4,1,0,0,0,0,1
+77,Diana Henr√≠quez Padr√≥n,Produccion,43,19,1,1,3,0,0,1
+78,Judith Arteaga Trevi√±o,Logistica,32,4,1,0,0,0,0,1
 79,Vicente Vera Maldonado,Ventas,28,1,1,1,0,0,1,0
-80,Natividad Armend·riz Loya,Produccion,34,2,1,1,2,0,0,0
+80,Natividad Armend√°riz Loya,Produccion,34,2,1,1,2,0,0,0
 81,Cynthia Leiva Luna,Produccion,35,2,0,1,3,0,0,0
 82,Ivonne Heredia Castellanos,Logistica,23,4,0,1,3,0,0,1
-83,Amanda MenÈndez Barrag·n,Produccion,49,30,0,0,0,1,2,0
-84,Ra˙l Curiel Leyva,Logistica,31,1,1,1,1,1,1,1
-85,Judith Ter·n Hern·dez,Produccion,24,4,1,0,1,1,0,1
+83,Amanda Men√©ndez Barrag√°n,Produccion,49,30,0,0,0,1,2,0
+84,Ra√∫l Curiel Leyva,Logistica,31,1,1,1,1,1,1,1
+85,Judith Ter√°n Hern√°dez,Produccion,24,4,1,0,1,1,0,1
 86,Gloria Grijalva Paz,Logistica,50,25,0,0,1,1,1,1
 87,Ofelia Urrutia Verdugo,Logistica,45,20,1,0,1,1,0,2
-88,AsunciÛn Quezada Cas·rez,Ventas,47,27,1,1,1,0,0,1
-89,MarÌa Elena Vaca Pulido,Produccion,24,2,1,1,3,1,0,0
-90,SerafÌn Hinojosa Barrientos,Logistica,26,2,1,1,1,0,1,0
+88,Asunci√≥n Quezada Cas√°rez,Ventas,47,27,1,1,1,0,0,1
+89,Mar√≠a Elena Vaca Pulido,Produccion,24,2,1,1,3,1,0,0
+90,Seraf√≠n Hinojosa Barrientos,Logistica,26,2,1,1,1,0,1,0
 91,Laura Rivas Verdugo,Logistica,27,5,1,1,1,0,1,1
-92,MarÌa JosÈ Aparicio Crespo,InvestigaciÛn,35,3,0,0,1,0,2,0
+92,Mar√≠a Jos√© Aparicio Crespo,Investigaci√≥n,35,3,0,0,1,0,2,0
 93,Guadalupe Brito Navarrete,Produccion,26,5,0,0,0,0,2,1
-94,Natividad Vanegas Archuleta,InvestigaciÛn,57,20,0,1,3,0,1,1
-95,Cecilia Villarreal Olvera,InvestigaciÛn,53,29,0,0,0,1,0,0
+94,Natividad Vanegas Archuleta,Investigaci√≥n,57,20,0,1,3,0,1,1
+95,Cecilia Villarreal Olvera,Investigaci√≥n,53,29,0,0,0,1,0,0
 96,Espartaco Chapa de la Garza,Logistica,43,20,1,0,1,1,0,0
-97,Minerva AcuÒa Corona,Produccion,50,22,0,1,0,1,1,1
+97,Minerva Acu√±a Corona,Produccion,50,22,0,1,0,1,1,1
 98,Violeta Castro Bueno,Logistica,23,5,0,1,3,1,0,1
 99,Leonor Lucio Loera,Produccion,33,1,1,0,0,1,0,0
 100,Porfirio Carrera Ceja,Logistica,56,20,1,1,1,0,1,0
 101,Anabel Zambrano Vallejo,Logistica,35,2,1,0,0,0,1,2
 102,Pamela Arellano Nieto,Logistica,48,26,1,1,2,0,0,1
-103,Olga VÈlez HolguÌn,Logistica,27,1,1,0,1,1,0,1
-104,MÛnica Medrano Cardona,Produccion,24,1,0,1,3,0,1,1
-105,Luisa Rold·n Mesa,Logistica,57,30,0,1,3,0,0,0
+103,Olga V√©lez Holgu√≠n,Logistica,27,1,1,0,1,1,0,1
+104,M√≥nica Medrano Cardona,Produccion,24,1,0,1,3,0,1,1
+105,Luisa Rold√°n Mesa,Logistica,57,30,0,1,3,0,0,0
 106,Alta  Gracia Quezada Rojas,Logistica,51,24,0,0,1,1,2,1
-107,Armando DÌaz Olvera,Produccion,51,26,0,0,0,1,0,0
+107,Armando D√≠az Olvera,Produccion,51,26,0,0,0,1,0,0
 108,Mario Zaragoza Zambrano,Produccion,53,21,0,1,3,0,0,1
 109,Daniel Valles Salazar,Logistica,58,33,0,1,3,0,0,0
 110,Dulce Santacruz Solorio,Logistica,54,33,0,0,1,1,1,2
-111,Blanca MarroquÌn Garza,InvestigaciÛn,25,2,0,0,1,1,2,1
-112,”liver VÈliz Chapa,Ventas,46,26,1,0,1,0,0,2
-113,Nicol·s Escamilla Palacios,Ventas,30,5,1,0,1,1,0,1
+111,Blanca Marroqu√≠n Garza,Investigaci√≥n,25,2,0,0,1,1,2,1
+112,√ìliver V√©liz Chapa,Ventas,46,26,1,0,1,0,0,2
+113,Nicol√°s Escamilla Palacios,Ventas,30,5,1,0,1,1,0,1
 114,Andrea Guillen Lemus,Ventas,24,5,1,0,1,0,2,2
-115,Ana MarÌa ChavarrÌa Acevedo,Logistica,38,18,0,1,3,0,1,1
-116,Lorenzo RincÛn Nava,InvestigaciÛn,27,4,1,0,0,1,1,0
-117,Alta  Gracia Bernal MontaÒez,Ventas,34,1,1,0,0,1,2,0
-118,Irma Nava TÛrrez,Logistica,27,5,0,0,1,0,0,1
-119,Itzel ColÛn Borrego,Logistica,42,21,1,0,1,1,1,0
-120,Nayeli Arteaga Guzm·n,Logistica,47,22,1,1,0,1,1,1
-121,Ivonne Estrada VillaseÒor,InvestigaciÛn,47,23,1,1,2,1,0,0
-122,Karla Carrasco S·nchez,Produccion,49,28,1,1,1,1,1,1
-123,Ad·n Guzm·n Monroy,Produccion,47,21,0,1,1,1,0,1
-124,MarÌa JosÈ Mora Mora,Logistica,43,21,0,0,0,0,0,0
-125,Abel Salinas Madera,InvestigaciÛn,34,1,0,0,1,1,1,1
-126,Arcelia MuÒiz Pacheco,Logistica,56,36,0,0,1,0,0,0
-127,Sergio Jurado del RÌo,InvestigaciÛn,40,21,1,0,0,0,2,1
-128,SofÌa Lomeli Zaragoza,Produccion,58,23,1,1,1,1,1,0
-129,Francisco FlÛrez LeÛn,Ventas,50,22,0,1,1,1,1,1
-130,Ofelia DueÒas Ceja,Produccion,34,3,0,0,1,1,0,1
+115,Ana Mar√≠a Chavarr√≠a Acevedo,Logistica,38,18,0,1,3,0,1,1
+116,Lorenzo Rinc√≥n Nava,Investigaci√≥n,27,4,1,0,0,1,1,0
+117,Alta  Gracia Bernal Monta√±ez,Ventas,34,1,1,0,0,1,2,0
+118,Irma Nava T√≥rrez,Logistica,27,5,0,0,1,0,0,1
+119,Itzel Col√≥n Borrego,Logistica,42,21,1,0,1,1,1,0
+120,Nayeli Arteaga Guzm√°n,Logistica,47,22,1,1,0,1,1,1
+121,Ivonne Estrada Villase√±or,Investigaci√≥n,47,23,1,1,2,1,0,0
+122,Karla Carrasco S√°nchez,Produccion,49,28,1,1,1,1,1,1
+123,Ad√°n Guzm√°n Monroy,Produccion,47,21,0,1,1,1,0,1
+124,Mar√≠a Jos√© Mora Mora,Logistica,43,21,0,0,0,0,0,0
+125,Abel Salinas Madera,Investigaci√≥n,34,1,0,0,1,1,1,1
+126,Arcelia Mu√±iz Pacheco,Logistica,56,36,0,0,1,0,0,0
+127,Sergio Jurado del R√≠o,Investigaci√≥n,40,21,1,0,0,0,2,1
+128,Sof√≠a Lomeli Zaragoza,Produccion,58,23,1,1,1,1,1,0
+129,Francisco Fl√≥rez Le√≥n,Ventas,50,22,0,1,1,1,1,1
+130,Ofelia Due√±as Ceja,Produccion,34,3,0,0,1,1,0,1
 131,Micaela Mesa Pelayo,Logistica,56,27,0,1,1,1,0,1
-132,Lucas Otero PatiÒo,Logistica,34,4,0,1,3,1,1,0
+132,Lucas Otero Pati√±o,Logistica,34,4,0,1,3,1,1,0
 133,Sonia del Valle Carrasco,Ventas,41,18,0,1,1,0,0,0
-134,BernabÈ Alc·ntar Guerrero,Produccion,40,18,0,0,1,1,2,0
-135,Perla Su·rez PatiÒo,Logistica,52,19,0,0,1,0,1,2
+134,Bernab√© Alc√°ntar Guerrero,Produccion,40,18,0,0,1,1,2,0
+135,Perla Su√°rez Pati√±o,Logistica,52,19,0,0,1,0,1,2
 136,Omar Soliz Orta,Ventas,44,21,0,1,0,1,1,1
 137,Alfonso Cervantes Olivas,Produccion,58,24,1,1,0,0,0,0
-138,Jes˙s Arteaga Valle,Logistica,59,31,1,0,0,0,2,1
+138,Jes√∫s Arteaga Valle,Logistica,59,31,1,0,0,0,2,1
 139,Homero Armenta Rosas,Logistica,57,33,0,1,0,0,1,1
-140,Javier MacÌas Godoy,Ventas,26,2,0,0,1,1,2,2
+140,Javier Mac√≠as Godoy,Ventas,26,2,0,0,1,1,2,2
 141,Frida Laboy Duarte,Produccion,52,24,0,0,1,1,2,0
 142,Marcela Chapa Tejeda,Produccion,43,25,1,1,2,1,1,1
 143,Rosario Casillas Serrato,Produccion,32,5,0,1,3,0,1,0
-144,Margarita Leal DomÌnguez,Logistica,54,31,1,0,1,1,1,2
-145,Cristal Fern·ndez de Jes˙s,Ventas,25,5,0,1,3,1,0,0
-146,MarÌa Luisa Mercado Carmona,Produccion,39,21,1,0,1,1,1,2
-147,JosÈ Eduardo Madrid Narv·ez,Logistica,37,18,1,0,1,1,2,1
-148,Horacio RodrÌquez Linares,Logistica,42,24,0,1,3,1,0,1
-149,Elena Vel·squez Mesa,Logistica,38,18,1,1,3,0,1,1
-150,HÈctor Dur·n Guerrero,Logistica,42,24,0,1,3,1,0,0
-151,Enrique Segovia Ortiz,InvestigaciÛn,25,2,1,1,3,0,1,1
-152,Marisol FlÛrez Valverde,Logistica,31,1,1,0,1,0,2,0
-153,Adalberto Z˙Òiga Corral,Produccion,22,5,0,1,0,1,1,1
+144,Margarita Leal Dom√≠nguez,Logistica,54,31,1,0,1,1,1,2
+145,Cristal Fern√°ndez de Jes√∫s,Ventas,25,5,0,1,3,1,0,0
+146,Mar√≠a Luisa Mercado Carmona,Produccion,39,21,1,0,1,1,1,2
+147,Jos√© Eduardo Madrid Narv√°ez,Logistica,37,18,1,0,1,1,2,1
+148,Horacio Rodr√≠quez Linares,Logistica,42,24,0,1,3,1,0,1
+149,Elena Vel√°squez Mesa,Logistica,38,18,1,1,3,0,1,1
+150,H√©ctor Dur√°n Guerrero,Logistica,42,24,0,1,3,1,0,0
+151,Enrique Segovia Ortiz,Investigaci√≥n,25,2,1,1,3,0,1,1
+152,Marisol Fl√≥rez Valverde,Logistica,31,1,1,0,1,0,2,0
+153,Adalberto Z√∫√±iga Corral,Produccion,22,5,0,1,0,1,1,1
 154,Rodolfo Quesada Barajas,Logistica,41,20,0,0,0,1,2,2
 155,Leonardo Rosario Vera,Produccion,34,2,1,0,0,1,0,0
 156,Porfirio Ontiveros Canales,Produccion,41,23,0,1,3,0,1,0
 157,Laura Murillo Lucio,Produccion,41,19,1,1,3,0,0,1
-158,Eloisa Rojas Dur·n,Produccion,33,5,0,0,1,1,2,2
-159,”scar Alva Cano,InvestigaciÛn,27,4,1,1,0,1,0,0
+158,Eloisa Rojas Dur√°n,Produccion,33,5,0,0,1,1,2,2
+159,√ìscar Alva Cano,Investigaci√≥n,27,4,1,1,0,1,0,0
 160,Elvira Posada Gamez,Logistica,58,38,0,0,1,1,2,0
-161,EstefanÌa Mena Alcaraz,Logistica,43,25,1,0,0,1,0,0
-162,Yolanda MascareÒas UrÌas,Produccion,30,2,1,0,0,1,2,0
+161,Estefan√≠a Mena Alcaraz,Logistica,43,25,1,0,0,1,0,0
+162,Yolanda Mascare√±as Ur√≠as,Produccion,30,2,1,0,0,1,2,0
 163,Nancy Cornejo Carranza,Produccion,54,27,1,1,0,0,0,1
-164,Augusto Molina Berm˙dez,Produccion,48,19,0,0,0,0,0,1
-165,RubÈn Berm˙dez Angulo,Logistica,55,22,1,1,0,1,1,0
-166,Abril Laboy Aparicio,InvestigaciÛn,28,1,1,1,3,1,0,1
+164,Augusto Molina Berm√∫dez,Produccion,48,19,0,0,0,0,0,1
+165,Rub√©n Berm√∫dez Angulo,Logistica,55,22,1,1,0,1,1,0
+166,Abril Laboy Aparicio,Investigaci√≥n,28,1,1,1,3,1,0,1
 167,Jorge Luis Camacho Gallegos,Logistica,41,21,1,1,0,1,0,0
-168,VerÛnica Pedroza PÈrez,Logistica,55,21,1,1,1,0,0,1
-169,MartÌn Rubio Blanco,Logistica,24,3,1,1,1,1,1,0
-170,Marisol CalderÛn Pulido,Produccion,53,20,1,0,0,0,2,2
-171,Mercedes Calvillo RamÌrez,Produccion,30,2,0,1,3,1,1,1
-172,Mateo RamÌrez Rojas,Logistica,35,5,0,1,3,1,0,0
-173,Miriam PadrÛn Velasco,Produccion,58,38,1,0,1,0,2,0
-174,SofÌa Collazo CortÈs,Ventas,45,27,0,1,3,0,1,1
-175,Isabela UrÌas Bustamante,Logistica,29,3,0,1,3,1,1,0
-176,Nicol·s Pantoja Gonz·lez,Logistica,26,1,0,1,1,1,0,1
+168,Ver√≥nica Pedroza P√©rez,Logistica,55,21,1,1,1,0,0,1
+169,Mart√≠n Rubio Blanco,Logistica,24,3,1,1,1,1,1,0
+170,Marisol Calder√≥n Pulido,Produccion,53,20,1,0,0,0,2,2
+171,Mercedes Calvillo Ram√≠rez,Produccion,30,2,0,1,3,1,1,1
+172,Mateo Ram√≠rez Rojas,Logistica,35,5,0,1,3,1,0,0
+173,Miriam Padr√≥n Velasco,Produccion,58,38,1,0,1,0,2,0
+174,Sof√≠a Collazo Cort√©s,Ventas,45,27,0,1,3,0,1,1
+175,Isabela Ur√≠as Bustamante,Logistica,29,3,0,1,3,1,1,0
+176,Nicol√°s Pantoja Gonz√°lez,Logistica,26,1,0,1,1,1,0,1
 177,Silvano Villalpando Terrazas,Ventas,29,3,0,0,1,1,0,1
 178,Gabino Rojo Almonte,Logistica,45,20,1,0,1,1,1,2
 179,Alicia Figueroa Roybal,Logistica,38,19,0,1,2,1,1,0
-180,Vanesa Villarreal N˙Òez,InvestigaciÛn,28,2,0,0,1,0,2,1
+180,Vanesa Villarreal N√∫√±ez,Investigaci√≥n,28,2,0,0,1,0,2,1
 181,Andrea Quintero Zamora,Logistica,51,32,0,0,1,1,0,0
 182,Mariana Montero Negrete,Ejecutivo,34,5,1,0,1,1,2,2
 183,Natividad Ybarra Mota,Logistica,53,35,0,0,0,0,2,2
-184,Mariana Cavazos S·enz,Produccion,22,1,1,1,0,0,1,0
+184,Mariana Cavazos S√°enz,Produccion,22,1,1,1,0,0,1,0
 185,Miguel Partida Rivera,Produccion,51,32,1,0,0,0,1,0
 186,Karla Vega Arriaga,Ejecutivo,50,25,0,1,2,0,0,1
 187,Lorenzo Urrutia Lozano,Logistica,23,1,0,1,0,1,0,0
-188,Cecilia Delgado HenrÌquez,InvestigaciÛn,30,2,1,0,0,0,1,0
-189,Julio CÈsar Saavedra Escalante,InvestigaciÛn,26,5,0,0,1,0,0,0
+188,Cecilia Delgado Henr√≠quez,Investigaci√≥n,30,2,1,0,0,0,1,0
+189,Julio C√©sar Saavedra Escalante,Investigaci√≥n,26,5,0,0,1,0,0,0
 190,Aurora Almaraz Carrasco,Logistica,31,5,1,1,1,0,1,0
 191,Gerardo Gallegos Esquibel,Ventas,38,20,1,1,0,1,1,0
 192,Mariano Corrales Barajas,Logistica,39,21,0,0,1,1,2,0
-193,Ivonne EstÈvez Mireles,Ventas,40,20,1,0,1,1,0,0
+193,Ivonne Est√©vez Mireles,Ventas,40,20,1,0,1,1,0,0
 194,Cristina Pantoja Solorio,Logistica,28,1,1,1,1,0,1,1
 195,Alma Aparicio Hurtado,Produccion,46,25,1,0,1,0,0,0
 196,Barbara Castillo Almaraz,Logistica,36,18,0,1,1,0,1,1
-197,Sergio Gait·n Tirado,Logistica,37,18,0,0,1,1,1,2
-198,Clara Zayas Solorio,InvestigaciÛn,48,19,0,1,0,1,1,1
-199,Magdalena CalderÛn Bahena,Produccion,30,4,1,1,1,0,1,0
+197,Sergio Gait√°n Tirado,Logistica,37,18,0,0,1,1,1,2
+198,Clara Zayas Solorio,Investigaci√≥n,48,19,0,1,0,1,1,1
+199,Magdalena Calder√≥n Bahena,Produccion,30,4,1,1,1,0,1,0
 200,Lilia Apodaca Espinosa,Logistica,47,24,1,0,0,1,2,2
 201,Marco Antonio Alva Apodaca,Logistica,41,23,1,1,1,1,1,0
-202,Mariana Romero BÈtancourt,Logistica,29,2,1,0,1,0,1,1
-203,Patricia Raya DÌaz,Ventas,38,19,1,1,0,0,0,1
-204,Dulce Lugo FarÌas,Produccion,28,5,0,1,1,1,1,1
-205,Teodoro Sosa MÈndez,Logistica,55,28,1,1,3,0,0,1
+202,Mariana Romero B√©tancourt,Logistica,29,2,1,0,1,0,1,1
+203,Patricia Raya D√≠az,Ventas,38,19,1,1,0,0,0,1
+204,Dulce Lugo Far√≠as,Produccion,28,5,0,1,1,1,1,1
+205,Teodoro Sosa M√©ndez,Logistica,55,28,1,1,3,0,0,1
 206,Silvano Barraza Tapia,Logistica,49,26,0,0,1,0,0,2
-207,Jorge Urbina Jurado,InvestigaciÛn,36,18,1,0,1,0,2,2
-208,AngÈlica Meza Bravo,Produccion,56,31,1,1,1,1,0,0
-209,JosÈ MarÌa Caraballo Castellanos,Produccion,54,31,1,1,2,1,1,1
-210,RafaÈl Aparicio Mojica,Produccion,33,5,0,1,3,1,0,0
+207,Jorge Urbina Jurado,Investigaci√≥n,36,18,1,0,1,0,2,2
+208,Ang√©lica Meza Bravo,Produccion,56,31,1,1,1,1,0,0
+209,Jos√© Mar√≠a Caraballo Castellanos,Produccion,54,31,1,1,2,1,1,1
+210,Rafa√©l Aparicio Mojica,Produccion,33,5,0,1,3,1,0,0
 211,Jorge Luis Barrios Zedillo,Logistica,38,20,1,1,1,1,1,0
 212,Rolando Trujillo Reyes,Logistica,40,19,0,1,1,1,1,0
 213,Genaro Lugo Garibay,Logistica,56,19,0,1,3,1,1,1
-214,BernabÈ Rocha Cortez,Ventas,29,4,1,1,3,0,0,0
-215,AgustÌn Vaca PÈrez,Produccion,56,22,0,1,1,1,1,1
-216,Rosario CÛrdova Murillo,Ventas,56,36,1,0,1,0,2,2
+214,Bernab√© Rocha Cortez,Ventas,29,4,1,1,3,0,0,0
+215,Agust√≠n Vaca P√©rez,Produccion,56,22,0,1,1,1,1,1
+216,Rosario C√≥rdova Murillo,Ventas,56,36,1,0,1,0,2,2
 217,Alma Terrazas Mateo,Logistica,45,24,0,0,1,1,2,0
 218,Bruno Quintero Valles,Produccion,35,5,1,1,0,1,1,0
-219,Abraham AvilÈs Palacios,Logistica,40,22,0,0,0,0,0,2
+219,Abraham Avil√©s Palacios,Logistica,40,22,0,0,0,0,0,2
 220,Antonio Nieves Espinosa,Logistica,54,26,1,0,0,1,2,0
 221,Diana Solorio Merino,Logistica,30,2,0,1,3,1,0,1
-222,Ofelia PÈrez MontaÒez,Produccion,44,25,0,0,0,1,2,0
+222,Ofelia P√©rez Monta√±ez,Produccion,44,25,0,0,0,1,2,0
 223,Leticia Montero Madera,Logistica,36,18,0,1,1,1,1,1
-224,”scar VÈlez Reynoso,Produccion,46,21,1,1,2,0,0,0
-225,Ad·n Uribe RÌos,Produccion,28,4,0,0,1,1,2,1
+224,√ìscar V√©lez Reynoso,Produccion,46,21,1,1,2,0,0,0
+225,Ad√°n Uribe R√≠os,Produccion,28,4,0,0,1,1,2,1
 226,Samuel Cardenas Camacho,Produccion,53,26,1,0,1,1,2,2
-227,Arturo Villegas Y·Òez,Logistica,55,24,1,0,0,0,1,1
-228,Yolanda V·squez MelÈndez,Produccion,27,5,1,1,3,1,1,0
+227,Arturo Villegas Y√°√±ez,Logistica,55,24,1,0,0,0,1,1
+228,Yolanda V√°squez Mel√©ndez,Produccion,27,5,1,1,3,1,1,0
 229,Bianca Jasso Baeza,Produccion,40,22,0,0,1,1,2,2
 230,Citlali Pedroza Puga,Logistica,35,2,1,1,1,0,0,0
 231,Cecilia Arredondo Reynoso,Logistica,45,27,1,0,0,1,0,1
-232,Minerva S·enz Covarrubias,Logistica,41,21,1,0,0,0,2,1
-233,Zeferino UrÌas SolÌs,Produccion,48,30,1,0,0,1,1,0
-234,Rodolfo Alcaraz ResÈndez,Produccion,35,1,0,1,0,0,1,0
-235,Josefina Gollum MunguÌa,Ventas,50,30,1,0,1,0,0,0
-236,AngÈlica Rico Merino,Logistica,23,5,0,0,0,0,1,2
-237,Pascual Orellana ValdÈs,Logistica,52,23,0,0,0,1,0,0
-238,Cristobal RodrÌgez Peralta,Logistica,40,21,1,1,2,0,1,0
-239,Catalina Y·Òez Gait·n,Logistica,22,4,1,0,0,1,1,0
+232,Minerva S√°enz Covarrubias,Logistica,41,21,1,0,0,0,2,1
+233,Zeferino Ur√≠as Sol√≠s,Produccion,48,30,1,0,0,1,1,0
+234,Rodolfo Alcaraz Res√©ndez,Produccion,35,1,0,1,0,0,1,0
+235,Josefina Gollum Mungu√≠a,Ventas,50,30,1,0,1,0,0,0
+236,Ang√©lica Rico Merino,Logistica,23,5,0,0,0,0,1,2
+237,Pascual Orellana Vald√©s,Logistica,52,23,0,0,0,1,0,0
+238,Cristobal Rodr√≠gez Peralta,Logistica,40,21,1,1,2,0,1,0
+239,Catalina Y√°√±ez Gait√°n,Logistica,22,4,1,0,0,1,1,0
 240,Virginia Mares Portillo,Logistica,44,24,1,0,0,0,2,1
-241,Reynaldo EstÈvez ChavarrÌa,Logistica,31,5,0,1,1,1,0,0
+241,Reynaldo Est√©vez Chavarr√≠a,Logistica,31,5,0,1,1,1,0,0
 242,Luis Miguel Llamas Casares,Logistica,57,31,1,0,0,1,0,0
-243,Elvira Oquendo CarreÛn,Produccion,44,21,0,0,1,0,2,1
-244,Luis AvilÈs Zamora,Produccion,49,27,0,1,1,1,1,1
-245,JosÈ ManuÈl Cisneros Lugo,Ventas,48,24,0,0,1,0,1,1
-246,Hern·n Galindo Carranza,Logistica,23,2,1,1,1,1,0,0
+243,Elvira Oquendo Carre√≥n,Produccion,44,21,0,0,1,0,2,1
+244,Luis Avil√©s Zamora,Produccion,49,27,0,1,1,1,1,1
+245,Jos√© Manu√©l Cisneros Lugo,Ventas,48,24,0,0,1,0,1,1
+246,Hern√°n Galindo Carranza,Logistica,23,2,1,1,1,1,0,0
 247,Antonio Salas Acosta,Ejecutivo,48,27,1,1,1,0,0,1
-248,Itzel Orozco Barrag·n,Ejecutivo,59,24,0,1,3,1,1,0
-249,Paola Villa CalderÛn,Produccion,53,24,1,1,3,1,1,0
-250,Rosalia RodrÌquez Moya,Logistica,54,24,1,0,0,0,1,2
+248,Itzel Orozco Barrag√°n,Ejecutivo,59,24,0,1,3,1,1,0
+249,Paola Villa Calder√≥n,Produccion,53,24,1,1,3,1,1,0
+250,Rosalia Rodr√≠quez Moya,Logistica,54,24,1,0,0,0,1,2
 251,Leonor Perales Camacho,Produccion,30,4,1,0,0,0,0,0
 252,Evelio Segura Maestas,Logistica,28,4,0,1,1,1,1,1
-253,Isabela Mendoza ValdÈs,InvestigaciÛn,40,19,0,0,0,0,2,2
-254,Mayte Aparicio Hern·ndez,Logistica,24,2,1,0,0,1,0,1
-255,Judith Lozada Nev·rez,Logistica,46,26,0,0,0,1,0,1
-256,SerafÌn Lemus MuÒiz,Logistica,46,24,0,1,0,0,1,0
-257,Julio CÈsar Sarabia Sanches,Logistica,39,19,0,0,0,1,2,1
+253,Isabela Mendoza Vald√©s,Investigaci√≥n,40,19,0,0,0,0,2,2
+254,Mayte Aparicio Hern√°ndez,Logistica,24,2,1,0,0,1,0,1
+255,Judith Lozada Nev√°rez,Logistica,46,26,0,0,0,1,0,1
+256,Seraf√≠n Lemus Mu√±iz,Logistica,46,24,0,1,0,0,1,0
+257,Julio C√©sar Sarabia Sanches,Logistica,39,19,0,0,0,1,2,1
 258,Juan Murillo Mena,Ventas,39,19,1,0,0,1,1,0
-259,Ana VÈlez Mojica,Logistica,57,22,1,0,0,1,2,2
+259,Ana V√©lez Mojica,Logistica,57,22,1,0,0,1,2,2
 260,Guillermina Feliciano Rosales,Logistica,27,1,0,0,0,1,1,1
 261,Isaac Melgar Adame,Logistica,35,4,0,0,0,0,2,2
-262,ZacarÌas Fierro Barrera,Logistica,48,30,0,0,0,1,2,0
-263,Cristobal Arredondo Morales,InvestigaciÛn,42,23,1,0,0,0,0,2
+262,Zacar√≠as Fierro Barrera,Logistica,48,30,0,0,0,1,2,0
+263,Cristobal Arredondo Morales,Investigaci√≥n,42,23,1,0,0,0,0,2
 264,Paola Zayas Tovar,Logistica,45,21,1,1,0,0,1,1
-265,AsunciÛn CintrÛn Prieto,Logistica,28,2,0,1,3,1,1,0
-266,Lilia Camarillo Vel·zquez,Logistica,30,4,1,0,0,0,2,2
+265,Asunci√≥n Cintr√≥n Prieto,Logistica,28,2,0,1,3,1,1,0
+266,Lilia Camarillo Vel√°zquez,Logistica,30,4,1,0,0,0,2,2
 267,Conchita Bustos Alonzo,Logistica,54,19,0,1,1,0,1,0
 268,Amelia Rivas Apodaca,Ventas,57,31,1,1,2,1,0,1
 269,Dalia Arias Jaramillo,Ventas,32,2,0,0,0,0,1,1
-270,”scar Aranda Granados,Logistica,46,27,1,0,1,1,2,2
-271,Jon·s Cortez Caraballo,Produccion,52,26,0,0,1,0,0,1
-272,RocÌo Ulibarri Prado,InvestigaciÛn,32,4,1,1,2,1,1,1
-273,LucÌa Rosales Menchaca,Logistica,52,19,1,0,1,0,1,0
-274,SofÌa Casanova Quintana,Logistica,36,18,0,0,1,1,1,2
+270,√ìscar Aranda Granados,Logistica,46,27,1,0,1,1,2,2
+271,Jon√°s Cortez Caraballo,Produccion,52,26,0,0,1,0,0,1
+272,Roc√≠o Ulibarri Prado,Investigaci√≥n,32,4,1,1,2,1,1,1
+273,Luc√≠a Rosales Menchaca,Logistica,52,19,1,0,1,0,1,0
+274,Sof√≠a Casanova Quintana,Logistica,36,18,0,0,1,1,1,2
 275,Aldonza Gurule Lerma,Ejecutivo,42,22,0,1,1,1,1,0
-276,Florencia Bustos de la Torre,InvestigaciÛn,30,1,1,0,1,0,1,0
-277,Fabiola Hidalgo ¡vila,Produccion,47,22,0,0,0,0,1,0
+276,Florencia Bustos de la Torre,Investigaci√≥n,30,1,1,0,1,0,1,0
+277,Fabiola Hidalgo √Åvila,Produccion,47,22,0,0,0,0,1,0
 278,Nadia Sarabia Ramos,Produccion,44,21,1,0,1,0,2,0
-279,Gilberto EcheverrÌa Rosado,Produccion,54,34,0,1,3,1,0,0
-280,Lorena Esquibel Nieto,InvestigaciÛn,57,23,1,0,1,1,2,2
+279,Gilberto Echeverr√≠a Rosado,Produccion,54,34,0,1,3,1,0,0
+280,Lorena Esquibel Nieto,Investigaci√≥n,57,23,1,0,1,1,2,2
 281,Enrique Perea Alcaraz,Logistica,36,18,1,1,2,0,0,0
-282,Anabel ResÈndez Santill·n,Produccion,50,21,0,0,0,1,1,0
+282,Anabel Res√©ndez Santill√°n,Produccion,50,21,0,0,0,1,1,0
 283,Ramiro Espinoza Ybarra,Logistica,57,22,0,1,0,0,1,1
-284,Jorge Luis Ter·n Fierro,Logistica,43,23,1,1,1,0,1,0
+284,Jorge Luis Ter√°n Fierro,Logistica,43,23,1,1,1,0,1,0
 285,Helena Leyva Pedraza,Produccion,27,4,1,0,0,1,0,0
-286,Fabiola Noriega Rivas,InvestigaciÛn,47,22,0,0,0,1,1,2
+286,Fabiola Noriega Rivas,Investigaci√≥n,47,22,0,0,0,1,1,2
 287,Augusto Montes Esquivel,Produccion,27,1,0,0,0,0,0,1
 288,Blanca Montero Segura,Produccion,32,2,1,0,1,0,2,0
 289,Anabel Salgado Orta,Logistica,38,20,1,0,0,0,2,1
-290,Paulina Toro PadrÛn,Ventas,24,2,0,0,1,0,0,1
-291,Francisco Javier HenrÌquez N˙Òez,Produccion,50,19,0,0,0,1,2,2
+290,Paulina Toro Padr√≥n,Ventas,24,2,0,0,1,0,0,1
+291,Francisco Javier Henr√≠quez N√∫√±ez,Produccion,50,19,0,0,0,1,2,2
 292,Amanda Heredia Merino,Produccion,30,1,1,1,2,0,1,1
-293,Esparta TreviÒo Viera,Logistica,59,26,0,1,2,0,0,0
+293,Esparta Trevi√±o Viera,Logistica,59,26,0,1,2,0,0,0
 294,Maximiliano de la Fuente Orozco,Logistica,51,25,0,0,1,1,2,1
 295,Rosario Saavedra Torres,Produccion,50,19,1,1,2,1,0,1
-296,AsunciÛn Botello G·lvez,Produccion,27,5,1,0,1,1,2,1
+296,Asunci√≥n Botello G√°lvez,Produccion,27,5,1,0,1,1,2,1
 297,David Zavala Alvarez,Produccion,36,18,0,0,0,0,0,0
 298,Elena Zarate Coronado,Logistica,45,21,1,0,0,0,0,0
-299,Nicol·s Quiroz Fuentes,Ventas,56,31,0,0,1,1,0,2
-300,Pablo Guzm·n Amaya,Logistica,41,20,0,1,1,1,0,0
-301,Hilda Beltr·n Santana,Logistica,43,18,1,1,0,1,0,0
+299,Nicol√°s Quiroz Fuentes,Ventas,56,31,0,0,1,1,0,2
+300,Pablo Guzm√°n Amaya,Logistica,41,20,0,1,1,1,0,0
+301,Hilda Beltr√°n Santana,Logistica,43,18,1,1,0,1,0,0
 302,Perla Villareal Arevalo,Logistica,44,21,1,1,1,1,1,0
-303,Victoria Partida MenÈndez,Logistica,31,4,0,0,0,0,2,0
+303,Victoria Partida Men√©ndez,Logistica,31,4,0,0,0,0,2,0
 304,Alta  Gracia Toro Sisneros,Ventas,34,1,1,0,0,0,2,2
 305,Soledad Salcedo Sotelo,Logistica,24,3,0,0,0,0,0,0
-306,ZoÈ Corral Franco,Produccion,41,22,1,0,1,1,0,1
+306,Zo√© Corral Franco,Produccion,41,22,1,0,1,1,0,1
 307,Elvia Aguilera Jurado,Produccion,24,5,0,1,3,1,0,1
 308,Silvia Baeza Almonte,Logistica,34,2,0,0,0,1,2,1
 309,Noelia de la Torre Griego,Logistica,54,19,1,0,0,1,1,2
-310,JosÈ Luis Muro Gamez,Produccion,31,1,1,0,0,1,0,2
+310,Jos√© Luis Muro Gamez,Produccion,31,1,1,0,0,1,0,2
 311,Rufino Noriega Delgado,Ventas,33,1,0,1,1,0,1,1
-312,Isaac JimÈnez Ochoa,Logistica,44,22,1,1,1,0,1,0
-313,Beatriz N˙Òez MacÌas,Logistica,50,21,0,1,1,1,0,0
-314,Nancy DÌaz Mercado,Produccion,53,30,0,1,2,1,0,0
-315,Noelia RenterÌa BÈtancourt,Logistica,46,27,1,0,1,0,0,0
-316,Luis Manuel Balderas PeÒa,Logistica,32,2,1,0,0,1,0,2
-317,Wendolin RodrÌgez Espinosa,Produccion,44,21,1,0,1,0,1,1
+312,Isaac Jim√©nez Ochoa,Logistica,44,22,1,1,1,0,1,0
+313,Beatriz N√∫√±ez Mac√≠as,Logistica,50,21,0,1,1,1,0,0
+314,Nancy D√≠az Mercado,Produccion,53,30,0,1,2,1,0,0
+315,Noelia Renter√≠a B√©tancourt,Logistica,46,27,1,0,1,0,0,0
+316,Luis Manuel Balderas Pe√±a,Logistica,32,2,1,0,0,1,0,2
+317,Wendolin Rodr√≠gez Espinosa,Produccion,44,21,1,0,1,0,1,1
 318,Gregorio Griego Partida,Ventas,26,4,1,0,1,1,1,0
-319,Alicia EcheverrÌa MondragÛn,Ventas,31,5,1,0,1,0,2,2
+319,Alicia Echeverr√≠a Mondrag√≥n,Ventas,31,5,1,0,1,0,2,2
 320,Samuel Brito Aguilar,Logistica,28,3,0,0,1,0,2,1
 321,Perla Lovato Curiel,Logistica,40,19,0,0,0,1,1,2
 322,Leonardo Tamez Toledo,Produccion,37,18,0,0,1,0,2,0
 323,Estela Benavides Arroyo,Logistica,42,21,0,1,0,1,1,1
 324,Evelio Vergara Zamudio,Produccion,45,22,1,1,2,1,0,1
-325,Eric Ballesteros D·vila,Ventas,40,21,1,1,0,0,0,0
+325,Eric Ballesteros D√°vila,Ventas,40,21,1,1,0,0,0,0
 326,Citlali Mateo Ulloa,Logistica,50,24,0,0,1,0,1,1
-327,JosÈ Eduardo Granados Salgado,InvestigaciÛn,53,30,1,0,0,0,1,2
-328,Uriel Casas Alva,InvestigaciÛn,59,28,1,1,0,1,0,1
+327,Jos√© Eduardo Granados Salgado,Investigaci√≥n,53,30,1,0,0,0,1,2
+328,Uriel Casas Alva,Investigaci√≥n,59,28,1,1,0,1,0,1
 329,Mercedes Miranda Tamez,Ventas,25,1,0,0,1,1,2,2
-330,Uriel PÈrez Lira,Logistica,45,20,1,1,3,1,0,0
-331,Mauro Ter·n Palomo,Logistica,22,3,0,0,1,1,2,0
+330,Uriel P√©rez Lira,Logistica,45,20,1,1,3,1,0,0
+331,Mauro Ter√°n Palomo,Logistica,22,3,0,0,1,1,2,0
 332,Raquel Quiroz Romo,Logistica,52,34,0,1,0,1,0,1
 333,Mateo Arreola Loera,Produccion,38,19,0,0,0,0,0,0
 334,Ilse Matos Zelaya,Logistica,56,23,0,1,3,1,0,0
-335,¡ngel Guillen MarroquÌn,Logistica,38,20,0,0,0,0,2,1
+335,√Ångel Guillen Marroqu√≠n,Logistica,38,20,0,0,0,0,2,1
 336,Abigail Noriega Tijerina,Produccion,46,24,0,1,3,1,1,1
-337,Noelia ¡valos Cardenas,Ejecutivo,52,19,1,1,2,1,0,1
-338,Arcelia BenÌtez ChacÛn,InvestigaciÛn,28,5,1,0,0,1,0,2
+337,Noelia √Åvalos Cardenas,Ejecutivo,52,19,1,1,2,1,0,1
+338,Arcelia Ben√≠tez Chac√≥n,Investigaci√≥n,28,5,1,0,0,1,0,2
 339,Guillermina Velasco Soto,Logistica,55,36,1,1,2,0,0,1
 340,Pamela Guajardo Puente,Produccion,34,5,0,1,0,0,1,1
-341,Elvira Guevara Barela,InvestigaciÛn,22,4,0,0,1,1,2,0
-342,Esmeralda Guevara TreviÒo,Produccion,50,31,1,1,2,0,1,0
-343,Caridad Gonz·lez Trejo,Produccion,50,31,1,0,1,0,2,1
+341,Elvira Guevara Barela,Investigaci√≥n,22,4,0,0,1,1,2,0
+342,Esmeralda Guevara Trevi√±o,Produccion,50,31,1,1,2,0,1,0
+343,Caridad Gonz√°lez Trejo,Produccion,50,31,1,0,1,0,2,1
 344,Nancy Cardenas Curiel,Produccion,36,18,1,0,0,1,2,2
-345,Ruby Pichardo TÈllez,Produccion,48,30,1,1,1,1,1,1
-346,Diana Berm˙dez AragÛn,Produccion,34,4,0,1,3,0,0,1
+345,Ruby Pichardo T√©llez,Produccion,48,30,1,1,1,1,1,1
+346,Diana Berm√∫dez Arag√≥n,Produccion,34,4,0,1,3,0,0,1
 347,Adalberto Vera Lomeli,Produccion,48,26,0,0,1,1,1,2
-348,RamÛn Quezada Cabrera,InvestigaciÛn,55,36,1,0,1,1,2,0
-349,Flavio HenrÌquez Quintana,Produccion,53,18,0,0,0,0,1,2
+348,Ram√≥n Quezada Cabrera,Investigaci√≥n,55,36,1,0,1,1,2,0
+349,Flavio Henr√≠quez Quintana,Produccion,53,18,0,0,0,0,1,2
 350,Ana Luisa Arteaga Estrada,Produccion,55,21,0,0,1,0,2,0
 351,Mariana Caldera Granados,Ventas,59,39,1,1,3,0,0,0
-352,Adalberto Vel·zquez Camarillo,Logistica,35,5,1,0,1,0,2,2
+352,Adalberto Vel√°zquez Camarillo,Logistica,35,5,1,0,1,0,2,2
 353,Abraham Arce Mata,Logistica,58,37,1,1,1,0,1,0
-354,JerÛnimo Peres Pantoja,Produccion,27,2,1,0,1,1,1,1
-355,Florencia B·ez Olvera,Produccion,23,3,1,0,1,0,1,0
+354,Jer√≥nimo Peres Pantoja,Produccion,27,2,1,0,1,1,1,1
+355,Florencia B√°ez Olvera,Produccion,23,3,1,0,1,0,1,0
 356,Frida Varela Pedroza,Ejecutivo,29,4,0,0,1,0,1,2
-357,Hermelinda Y·Òez Meraz,InvestigaciÛn,43,23,1,1,1,1,1,0
+357,Hermelinda Y√°√±ez Meraz,Investigaci√≥n,43,23,1,1,1,1,1,0
 358,Nelly Merino Llamas,Logistica,22,5,1,1,1,0,0,0
-359,Eva de LeÛn Lara,Logistica,38,18,1,1,1,1,1,0
+359,Eva de Le√≥n Lara,Logistica,38,18,1,1,1,1,1,0
 360,Alfonso Camarillo Salcedo,Produccion,35,1,0,0,0,1,2,0
 361,Francisca Padilla Quintanilla,Logistica,29,5,0,1,1,0,1,1
-362,Guillermina Zarate GastÈlum,Ventas,52,32,1,0,1,0,1,1
-363,Marisol ChacÛn Trujillo,Logistica,28,1,0,0,1,1,0,1
-364,MarÌa Luisa Cornejo Tejeda,Produccion,55,34,1,0,1,0,0,0
-365,Marisol EcheverrÌa LebrÛn,InvestigaciÛn,27,2,1,0,0,0,2,0
-366,Homero PabÛn ConcepciÛn,InvestigaciÛn,38,18,1,1,1,0,1,1
-367,Yeni CastaÒeda GutiÈrrez,Produccion,46,28,0,0,0,0,0,0
-368,Clara CarreÛn Vela,InvestigaciÛn,54,34,1,1,1,0,1,1
-369,Isabela Alem·n Arguello,Logistica,37,18,1,0,0,0,0,0
-370,Miguel ¡ngel Saldivar Sandoval,Logistica,43,19,1,0,0,1,0,1
+362,Guillermina Zarate Gast√©lum,Ventas,52,32,1,0,1,0,1,1
+363,Marisol Chac√≥n Trujillo,Logistica,28,1,0,0,1,1,0,1
+364,Mar√≠a Luisa Cornejo Tejeda,Produccion,55,34,1,0,1,0,0,0
+365,Marisol Echeverr√≠a Lebr√≥n,Investigaci√≥n,27,2,1,0,0,0,2,0
+366,Homero Pab√≥n Concepci√≥n,Investigaci√≥n,38,18,1,1,1,0,1,1
+367,Yeni Casta√±eda Guti√©rrez,Produccion,46,28,0,0,0,0,0,0
+368,Clara Carre√≥n Vela,Investigaci√≥n,54,34,1,1,1,0,1,1
+369,Isabela Alem√°n Arguello,Logistica,37,18,1,0,0,0,0,0
+370,Miguel √Ångel Saldivar Sandoval,Logistica,43,19,1,0,0,1,0,1
 371,Carlos Ortega Esquivel,Produccion,55,22,1,1,1,0,1,1
-372,Adriana Alc·ntar Alejandro,Produccion,24,1,0,0,1,1,1,1
-373,Humberto JimÈnez Archuleta,Ventas,28,5,1,1,2,0,0,1
-374,Graciela MagaÒa Lerma,Produccion,39,19,1,0,1,0,1,2
+372,Adriana Alc√°ntar Alejandro,Produccion,24,1,0,0,1,1,1,1
+373,Humberto Jim√©nez Archuleta,Ventas,28,5,1,1,2,0,0,1
+374,Graciela Maga√±a Lerma,Produccion,39,19,1,0,1,0,1,2
 375,Graciela Tafoya Morales,Logistica,49,26,1,0,0,1,2,0
 376,Irene Jaramillo Linares,Logistica,47,20,1,1,0,1,0,1
 377,Horacio Barrientos Mora,Logistica,38,18,1,0,1,1,0,2
 378,Nelly Pacheco Zambrano,Logistica,49,27,1,1,3,1,0,0
-379,JosÈ ManuÈl Arevalo Mateo,Produccion,37,18,0,1,2,0,1,0
-380,Germ·n Quiroz Loera,Produccion,48,29,1,1,3,0,1,1
+379,Jos√© Manu√©l Arevalo Mateo,Produccion,37,18,0,1,2,0,1,0
+380,Germ√°n Quiroz Loera,Produccion,48,29,1,1,3,0,1,1
 381,Estela Alvarado Linares,Produccion,35,1,0,0,1,1,1,2
-382,Itzel B·ez Reynoso,InvestigaciÛn,49,29,0,1,1,0,0,0
+382,Itzel B√°ez Reynoso,Investigaci√≥n,49,29,0,1,1,0,0,0
 383,Luis Miguel Fonseca Ceja,Ventas,30,5,0,0,1,0,0,1
 384,Teresa Duarte Cortez,Produccion,46,22,0,1,3,1,0,1
-385,¡ngel Arevalo Vega,Logistica,44,25,0,1,2,1,0,1
+385,√Ångel Arevalo Vega,Logistica,44,25,0,1,2,1,0,1
 386,Mauro Olvera Olivares,Logistica,46,24,1,1,3,1,0,0
-387,Cornelio Mora FlÛrez,Logistica,52,25,1,1,0,1,0,0
-388,Guillermo de la Cr˙z Cuellar,Logistica,37,19,0,1,2,0,0,1
+387,Cornelio Mora Fl√≥rez,Logistica,52,25,1,1,0,1,0,0
+388,Guillermo de la Cr√∫z Cuellar,Logistica,37,19,0,1,2,0,0,1
 389,Nelly Montero de la Torre,Logistica,44,26,0,1,0,0,0,1
 390,Aida Vanegas Herrera,Produccion,29,1,0,1,3,1,0,1
 391,Trinidad Valle Rojas,Ventas,38,19,0,1,2,1,0,1
-392,Miriam RamÌrez Franco,Logistica,51,20,1,1,2,1,1,1
+392,Miriam Ram√≠rez Franco,Logistica,51,20,1,1,2,1,1,1
 393,Anel Mata Rosado,Ventas,47,23,0,0,0,1,1,0
 394,Luis Miguel Fajardo Quezada,Produccion,30,5,1,1,3,1,1,1
-395,Marco Antonio AvilÈs RolÛn,Ventas,40,18,0,1,1,1,0,0
-396,Marisela Tovar Ter·n,Logistica,48,18,0,0,1,1,2,1
-397,SerafÌn Carranza MÈndez,Produccion,48,20,1,1,3,0,1,0
-398,Cristian Alfaro TÛrrez,Produccion,35,4,0,0,1,1,1,0
+395,Marco Antonio Avil√©s Rol√≥n,Ventas,40,18,0,1,1,1,0,0
+396,Marisela Tovar Ter√°n,Logistica,48,18,0,0,1,1,2,1
+397,Seraf√≠n Carranza M√©ndez,Produccion,48,20,1,1,3,0,1,0
+398,Cristian Alfaro T√≥rrez,Produccion,35,4,0,0,1,1,1,0
 399,Rolando Osorio Ayala,Produccion,54,32,1,1,0,1,1,1
-400,Alberto Sotelo MejÌa,InvestigaciÛn,22,3,0,0,0,1,0,1
-401,Trinidad Arreola CarriÛn,Produccion,52,19,0,0,0,0,2,1
+400,Alberto Sotelo Mej√≠a,Investigaci√≥n,22,3,0,0,0,1,0,1
+401,Trinidad Arreola Carri√≥n,Produccion,52,19,0,0,0,0,2,1
 402,Abel Vaca Trujillo,Ventas,43,23,0,0,0,1,1,1
-403,Indira LeÛn Navarrete,Produccion,38,20,0,0,1,0,2,0
+403,Indira Le√≥n Navarrete,Produccion,38,20,0,0,1,0,2,0
 404,Aurora Alva Mora,Produccion,48,19,0,1,3,1,1,1
-405,Ilse Hidalgo Robles,InvestigaciÛn,30,1,0,0,0,1,2,1
+405,Ilse Hidalgo Robles,Investigaci√≥n,30,1,0,0,0,1,2,1
 406,Rebeca Varela Cotto,Ejecutivo,55,32,0,0,1,0,0,2
 407,Rufino Rojas Carmona,Logistica,49,25,1,0,0,0,2,1
 408,Vanesa Aranda Razo,Produccion,34,1,0,0,0,0,1,1
 409,Olga Figueroa Arellano,Logistica,47,22,0,1,0,0,1,1
 410,Francisca Mota Valadez,Logistica,50,30,0,1,3,1,0,1
-411,Julio CÈsar Loya Meraz,Logistica,56,18,0,1,3,0,0,1
+411,Julio C√©sar Loya Meraz,Logistica,56,18,0,1,3,0,0,1
 412,Eduardo Sisneros Castillo,Logistica,38,20,1,1,2,1,0,1
-413,Israel CastaÒeda Rosales,Logistica,58,36,0,1,0,0,1,0
+413,Israel Casta√±eda Rosales,Logistica,58,36,0,1,0,0,1,0
 414,Ana Montalvo Montero,Logistica,46,25,1,1,0,0,1,1
-415,Claudio Cant˙ Carrero,Produccion,40,22,0,1,2,0,0,0
+415,Claudio Cant√∫ Carrero,Produccion,40,22,0,1,2,0,0,0
 416,Leticia Cuellar Salgado,Produccion,23,3,1,1,1,0,1,0
-417,Minerva Moya Lovato,InvestigaciÛn,25,4,0,0,1,1,2,1
-418,Alta  Gracia QuiÒÛnez Barrios,Ventas,33,4,1,0,1,1,2,2
-419,Beatriz MuÒiz Ch·vez,InvestigaciÛn,58,40,0,0,1,0,1,0
-420,JosÈ Eduardo Alonzo Gallegos,Logistica,36,18,0,0,1,0,2,2
-421,Felipe Covarrubias Carrillo,InvestigaciÛn,28,4,1,0,1,1,2,2
-422,Ra˙l Oliv·rez Guevara,Logistica,35,4,1,0,0,0,0,1
-423,Cecilia AragÛn Granado,Ventas,39,21,0,0,1,0,2,2
-424,Antonia Ch·vez Centeno,Logistica,28,2,0,0,1,1,1,0
-425,Rebeca RodrÌquez Trejo,Logistica,44,22,1,0,0,1,0,0
+417,Minerva Moya Lovato,Investigaci√≥n,25,4,0,0,1,1,2,1
+418,Alta  Gracia Qui√±√≥nez Barrios,Ventas,33,4,1,0,1,1,2,2
+419,Beatriz Mu√±iz Ch√°vez,Investigaci√≥n,58,40,0,0,1,0,1,0
+420,Jos√© Eduardo Alonzo Gallegos,Logistica,36,18,0,0,1,0,2,2
+421,Felipe Covarrubias Carrillo,Investigaci√≥n,28,4,1,0,1,1,2,2
+422,Ra√∫l Oliv√°rez Guevara,Logistica,35,4,1,0,0,0,0,1
+423,Cecilia Arag√≥n Granado,Ventas,39,21,0,0,1,0,2,2
+424,Antonia Ch√°vez Centeno,Logistica,28,2,0,0,1,1,1,0
+425,Rebeca Rodr√≠quez Trejo,Logistica,44,22,1,0,0,1,0,0
 426,Nancy Delgadillo Zepeda,Ventas,35,2,0,0,1,0,0,0
-427,Miriam CarreÛn Narv·ez,Logistica,59,34,0,0,0,0,0,1
-428,Cristian PadrÛn Gurule,Logistica,37,19,1,1,1,1,1,0
-429,AsunciÛn Orta Varela,Logistica,34,3,1,1,2,1,1,1
+427,Miriam Carre√≥n Narv√°ez,Logistica,59,34,0,0,0,0,0,1
+428,Cristian Padr√≥n Gurule,Logistica,37,19,1,1,1,1,1,0
+429,Asunci√≥n Orta Varela,Logistica,34,3,1,1,2,1,1,1
 430,Sessa Menchaca Raya,Ventas,33,3,0,0,1,1,1,0
-431,MarÌa Cristina Mayorga Quintana,Ventas,37,19,0,1,0,0,0,1
-432,Yeni Valverde Orozco,InvestigaciÛn,45,19,0,0,0,1,1,1
-433,ZacarÌas Quintana Flores,InvestigaciÛn,35,4,1,0,0,1,2,0
-434,Victoria Camarillo RodrÌquez,Produccion,30,1,0,1,3,1,0,0
+431,Mar√≠a Cristina Mayorga Quintana,Ventas,37,19,0,1,0,0,0,1
+432,Yeni Valverde Orozco,Investigaci√≥n,45,19,0,0,0,1,1,1
+433,Zacar√≠as Quintana Flores,Investigaci√≥n,35,4,1,0,0,1,2,0
+434,Victoria Camarillo Rodr√≠quez,Produccion,30,1,0,1,3,1,0,0
 435,Estela Nieves Bravo,Produccion,44,22,1,1,0,1,1,1
 436,Ignacio Malave Carvajal,Produccion,53,27,1,1,2,1,0,1
 437,Ricardo Feliciano del Valle,Logistica,35,1,1,0,0,1,1,0
-438,Laura Hern·dez MunguÌa,Logistica,23,1,0,0,1,0,2,1
+438,Laura Hern√°dez Mungu√≠a,Logistica,23,1,0,0,1,0,2,1
 439,Jacobo Zamudio Alva,Logistica,31,2,1,0,1,1,1,1
 440,Natalia Alvarado Ibarra,Logistica,53,31,1,1,3,1,0,0
 441,Carla Ceja Preciado,Ventas,38,19,1,1,2,0,0,0
-442,MarÌa Luisa Solorzano Negrete,Logistica,59,31,0,0,1,1,2,0
-443,JerÛnimo MacÌas Sierra,Ventas,23,5,0,0,0,0,2,0
+442,Mar√≠a Luisa Solorzano Negrete,Logistica,59,31,0,0,1,1,2,0
+443,Jer√≥nimo Mac√≠as Sierra,Ventas,23,5,0,0,0,0,2,0
 444,Paulina Carmona Herrera,Produccion,25,2,1,0,0,0,2,2
 445,Araceli Olivo Olvera,Logistica,30,2,1,1,0,1,0,1
-446,Cristian Pelayo RendÛn,Logistica,42,23,0,0,0,1,2,1
+446,Cristian Pelayo Rend√≥n,Logistica,42,23,0,0,0,1,2,1
 447,Abelardo Amaya Guevara,Ventas,45,19,1,0,1,1,2,0
-448,Miguel ¡ngel Arriaga Oliv·rez,Logistica,43,21,0,1,2,0,1,0
+448,Miguel √Ångel Arriaga Oliv√°rez,Logistica,43,21,0,1,2,0,1,0
 449,Pedro Acevedo Colunga,Produccion,29,1,0,0,0,0,0,0
 450,Pablo Mora Rosario,Logistica,25,5,1,1,0,1,1,1
-451,Rebeca BriseÒo Viera,Logistica,47,22,0,1,0,1,1,1
+451,Rebeca Brise√±o Viera,Logistica,47,22,0,1,0,1,1,1
 452,Adalberto Barreto Noriega,Logistica,22,5,0,0,0,1,1,2
 453,Alberto Salas Tijerina,Ejecutivo,25,4,0,1,2,1,0,1
-454,Bianca Alem·n Guevara,Ventas,22,1,0,0,1,0,1,2
-455,Esmeralda PatiÒo Serrato,Ejecutivo,39,20,0,0,0,1,1,1
+454,Bianca Alem√°n Guevara,Ventas,22,1,0,0,1,0,1,2
+455,Esmeralda Pati√±o Serrato,Ejecutivo,39,20,0,0,0,1,1,1
 456,Mercedes Lomeli Gil,Logistica,29,4,0,1,2,0,1,0
-457,Liliana Su·rez Madrigal,Ventas,35,2,1,1,1,1,0,1
+457,Liliana Su√°rez Madrigal,Ventas,35,2,1,1,1,1,0,1
 458,Gustavo Gonzales Villalpando,Produccion,45,22,0,1,2,1,0,0
 459,Cecilia Ledesma Garica,Logistica,46,21,1,1,2,1,1,1
-460,ZacarÌas Solorzano Raya,Logistica,28,4,0,1,0,1,0,0
-461,Tom·s LeÛn Ojeda,Logistica,51,27,0,1,1,1,0,0
+460,Zacar√≠as Solorzano Raya,Logistica,28,4,0,1,0,1,0,0
+461,Tom√°s Le√≥n Ojeda,Logistica,51,27,0,1,1,1,0,0
 462,Nancy Cisneros Orellana,Ejecutivo,51,24,1,0,0,0,1,0
-463,Indira MagaÒa MenÈndez,Ventas,46,25,0,0,0,0,2,0
+463,Indira Maga√±a Men√©ndez,Ventas,46,25,0,0,0,0,2,0
 464,Natividad Solorio Cardenas,Produccion,59,27,1,1,1,1,0,0
 465,Daniel Gallardo Urbina,Produccion,25,1,0,1,1,1,1,0
 466,Cecilia Santana Lozano,Logistica,59,33,1,1,0,0,1,0
-467,Mateo Baeza TÛrrez,Logistica,48,30,0,1,1,0,0,0
+467,Mateo Baeza T√≥rrez,Logistica,48,30,0,1,1,0,0,0
 468,Miguel Zavala Barreto,Logistica,54,30,0,1,0,0,1,0
-469,JosÈ MarÌa RodrÌquez CarreÛn,Ventas,52,19,0,0,0,0,1,0
-470,InÈs Vallejo Preciado,Produccion,49,23,1,0,0,1,1,0
+469,Jos√© Mar√≠a Rodr√≠quez Carre√≥n,Ventas,52,19,0,0,0,0,1,0
+470,In√©s Vallejo Preciado,Produccion,49,23,1,0,0,1,1,0
 471,Maximiliano Centeno Gamboa,Logistica,48,25,1,0,0,0,2,2
-472,Silvia ColÛn Pichardo,Produccion,36,18,1,0,1,0,1,0
+472,Silvia Col√≥n Pichardo,Produccion,36,18,1,0,1,0,1,0
 473,Bernardo Casares Estrada,Logistica,36,18,0,1,2,0,0,0
 474,Araceli Cordero Venegas,Logistica,56,21,0,1,3,0,0,0
-475,Francisco Fonseca Fuentes,InvestigaciÛn,53,18,0,1,2,0,1,1
+475,Francisco Fonseca Fuentes,Investigaci√≥n,53,18,0,1,2,0,1,1
 476,Emiliano Ulibarri Tapia,Produccion,30,5,1,1,3,0,1,0
 477,Francisca Cardona Palomino,Ventas,55,25,0,1,0,1,0,1
-478,Cristobal CarreÛn Roque,Produccion,31,1,0,0,0,0,0,2
-479,Antonio S·enz Linares,InvestigaciÛn,37,19,0,0,1,0,1,2
+478,Cristobal Carre√≥n Roque,Produccion,31,1,0,0,0,0,0,2
+479,Antonio S√°enz Linares,Investigaci√≥n,37,19,0,0,1,0,1,2
 480,Lourdes Sanabria Pizarro,Logistica,49,30,1,1,1,1,1,1
 481,Cynthia Robles Aponte,Logistica,37,19,1,1,0,0,1,0
-482,Frida TÈllez Monroy,Logistica,34,5,0,0,1,1,2,0
-483,Esteban RamÌrez Elizondo,Logistica,56,22,0,1,1,0,1,1
+482,Frida T√©llez Monroy,Logistica,34,5,0,0,1,1,2,0
+483,Esteban Ram√≠rez Elizondo,Logistica,56,22,0,1,1,0,1,1
 484,Santiago Leiva Vigil,Logistica,54,27,0,1,2,1,0,0
-485,MÛnica Dur·n Abreu,Produccion,39,20,0,1,2,1,1,1
+485,M√≥nica Dur√°n Abreu,Produccion,39,20,0,1,2,1,1,1
 486,Andrea Olivo Brito,Produccion,24,2,1,1,0,0,0,0
 487,Amanda Castillo Verdugo,Ventas,56,31,1,0,0,0,2,1
 488,Alfredo Arce Reyes,Logistica,23,5,1,0,0,0,2,0
 489,Elisa Anguiano Pelayo,Ventas,56,35,0,1,0,1,1,0
-490,”scar EnrÌquez Amador,Produccion,42,20,1,1,3,1,0,1
-491,Felix Venegas Alc·ntar,Ejecutivo,40,21,1,0,1,1,2,0
-492,Benito Armend·riz Gollum,Produccion,59,33,0,1,3,1,1,0
+490,√ìscar Enr√≠quez Amador,Produccion,42,20,1,1,3,1,0,1
+491,Felix Venegas Alc√°ntar,Ejecutivo,40,21,1,0,1,1,2,0
+492,Benito Armend√°riz Gollum,Produccion,59,33,0,1,3,1,1,0
 493,Guadalupe Ramos Gallardo,Produccion,45,20,1,1,3,1,1,0
 494,Camila Miranda Acosta,Ejecutivo,23,2,1,0,0,1,2,2
-495,Amalia FlÛrez Galv·n,Produccion,51,19,1,0,0,1,1,2
+495,Amalia Fl√≥rez Galv√°n,Produccion,51,19,1,0,0,1,1,2
 496,Fabiola Huerta Barrios,Logistica,37,19,0,1,0,1,1,1
 497,Hilda Balderas Aponte,Logistica,25,1,0,1,0,0,1,1
-498,Gabriel Fonseca Jaimes,InvestigaciÛn,43,23,1,1,0,1,0,1
+498,Gabriel Fonseca Jaimes,Investigaci√≥n,43,23,1,1,0,1,0,1
 499,Bianca Zarate Barajas,Produccion,36,18,0,1,3,1,0,1
-500,Germ·n Ybarra Guzm·n,InvestigaciÛn,27,4,0,0,0,0,2,1
+500,Germ√°n Ybarra Guzm√°n,Investigaci√≥n,27,4,0,0,0,0,2,1
