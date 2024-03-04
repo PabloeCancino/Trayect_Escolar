@@ -1,69 +1,59 @@
-﻿U_de_Aprend,Linea,Creditos,media_calif,desv_calif,tasa_promocion 
-Topicos de Matematicas,TBA,8,88,8,0.91
-Fundamentos de Programacion,TBA,8,80,9,0.97
-Comprension Lectora y Redaccion,TBA,8,82,10,0.97
-Tecn Com y Gest de la Inf,TBA,6,85,9,1
-Trigonometria,LF_1_Geom y Top,6,88,8,0.93
-Geometria Analitica Plana,LF_1_Geom y Top,8,85,10,0.97
-Geometria Analitica en el Espacio,LF_1_Geom y Top,8,79,8,0.91
-Geometria Euclidiana,LF_1_Geom y Top,8,83,8,0.98
-Topologia,LF_1_Geom y Top,10,79,10,0.91
-Geometria Moderna,LF_1_Geom y Top,8,80,8,0.92
-Metodos Numericos,LF_2_Modelacion,8,88,11,0.9
-Ecuaciones Diferenciales Ordinarias,LF_2_Modelacion,8,85,9,0.95
-Transformadas y Series,LF_2_Modelacion,8,85,10,1
-Ecuaciones Diferenciales Parciales,LF_2_Modelacion,8,88,8,0.97
-Sistemas Dinamicos,LF_2_Modelacion,8,88,10,0.97
-Sistemas Dinamicos Discretos,LF_2_Modelacion,8,87,11,0.95
-Analisis Topologico de Datos,LF_2_Modelacion,8,84,9,0.96
-Analisis Numerico,LF_2_Modelacion,8,83,10,0.93
-Historia de las Matematicas,LF_3_C. Educ. Mat,6,79,10,0.99
-Teorias del Aprendizaje,LF_3_C. Educ. Mat,6,84,11,0.95
-Didactica de las Matematicas,LF_3_C. Educ. Mat,8,85,12,0.92
-Tecn y ens de las Matematicas,LF_3_C. Educ. Mat,8,82,9,0.95
-Software Educativo,LF_3_C. Educ. Mat,10,81,10,0.95
-Evaluacion del Aprendizaje,LF_3_C. Educ. Mat,8,80,12,0.94
-Metodologia de la Investigacion,LF_3_C. Educ. Mat,8,82,11,0.91
-Didactica del algebra,LF_3_C. Educ. Mat,8,86,10,1
-Didactica de la Geometria,LF_3_C. Educ. Mat,8,83,8,0.99
-Didactica del Calculo,LF_3_C. Educ. Mat,8,84,11,0.96
-Planeacion Didactica,LF_3_C. Educ. Mat,8,80,9,0.98
-Seminario de Investigacion,LF_3_C. Educ. Mat,8,83,9,0.91
-Tendencias Educativas,LF_3_C. Educ. Mat,8,82,9,0.91
-Calculo Diferencial,LF_4_Analisis,8,80,9,0.92
-Calculo Integral,LF_4_Analisis,8,81,12,0.93
-Calculo Superior,LF_4_Analisis,8,86,11,0.92
-Analisis Real,LF_4_Analisis,8,88,12,0.99
-Analisis Matematico,LF_4_Analisis,8,83,12,0.95
-Variable Compleja,LF_4_Analisis,8,85,9,0.97
-Probabilidad,LF_5_Prob y Est,8,81,10,0.94
-Estadistica Desc e Inf,LF_5_Prob y Est,8,87,8,0.91
-Elementos del Muestreo,LF_5_Prob y Est,6,86,12,0.99
-Diseño de Experimentos,LF_5_Prob y Est,8,85,12,0.95
-Procesos Estocasticos,LF_5_Prob y Est,8,84,12,1
-Logica y Conjuntos,LF_6_algebra,8,80,9,0.99
-Sistemas de Ecuaciones y Matrices,LF_6_algebra,6,83,11,0.93
-algebra Lineal,LF_6_algebra,8,79,9,0.95
-algebra Superior,LF_6_algebra,10,88,8,1
-algebra Moderna,LF_6_algebra,8,83,10,0.94
-Teoria de Numeros,LF_6_algebra,8,78,8,0.92
-Algebra Lineal Avanzada,LF_6_algebra,8,88,12,0.92
-Matematicas Discretas,LF_6_algebra,8,83,11,0.93
-Fundamentos de Fisica Clasica,LF_7_Fisica,6,86,9,0.9
-Analisis Funcional,LP_8_Mat_Apl,8,86,11,1
-Analisis Topologico de Datos,LP_8_Mat_Apl,8,80,10,0.91
-Teoria de la Medida,LP_8_Mat_Apl,8,80,11,0.98
-Analisis Numerico,LP_8_Mat_Apl,8,78,8,0.94
-Procesos Estocasticos,LP_8_Mat_Apl,8,82,10,0.91
-Matematicas Discretas,LP_8_Mat_Apl,8,78,11,0.97
-Didactica del algebra,LP_8_Mat_Edu,8,83,9,0.9
-Didactica de la Geometria,LP_8_Mat_Edu,8,78,11,0.92
-Didactica del Calculo,LP_8_Mat_Edu,8,81,11,0.98
-Planeacion Didactica,LP_8_Mat_Edu,8,82,12,0.9
-Seminario de Investigacion,LP_8_Mat_Edu,8,86,10,0.91
-Tendencias Educativas,LP_8_Mat_Edu,8,86,10,0.95
-Opt_Libre_01,Opt_Libres,6,86,11,0.96
-Opt_Libre_02,Opt_Libres,6,84,8,0.93
-Opt_Libre_03,Opt_Libres,6,78,10,0.98
-Opt_Libre_04,Opt_Libres,6,88,8,0.92
-Opt_Libre_05,Opt_Libres,6,88,9,0.91
+﻿ordinal,U_de_Aprend,Academia,Estruct_Curr,RowCurr,ColCurr,Creditos,media_calif,desv_calif,tasa_promocion 
+1,Trigonometria,LF_1_Geom y Top,Disciplinar,1,1,6,86,11,0.97
+2,Geometria Analitica Plana,LF_1_Geom y Top,Disciplinar,2,1,8,85,8,0.91
+3,Topicos de Matematicas,TBA,TBA,3,1,8,78,8,0.96
+4,Fundamentos de Programacion,TBA,TBA,4,1,8,85,12,0.92
+5,Logica y Conjuntos,LF_6_algebra,Disciplinar,5,1,8,80,8,0.98
+6,Sistemas de Ecuaciones y Matrices,LF_6_algebra,Disciplinar,6,1,6,82,12,0.9
+7,Opt_Libre_01,Opt_Libres,Opt_Libres,7,1,6,85,11,0.97
+8,Calculo Diferencial,LF_4_Analisis,Disciplinar,1,2,8,84,11,0.99
+9,Geometria Analitica en el Espacio,LF_1_Geom y Top,Disciplinar,2,2,8,87,12,0.9
+10,Comprension Lectora y Redaccion,TBA,TBA,3,2,8,81,8,0.95
+11,Tecn Com y Gest de la Inf,TBA,TBA,4,2,6,82,12,0.94
+12,Historia de las Matematicas,LF_3_C. Educ. Mat,Disciplinar,5,2,6,79,9,0.96
+13,Algebra Lineal Avanzada,LF_6_algebra,Disciplinar,6,2,8,85,8,0.98
+14,Opt_Libre_02,Opt_Libres,Opt_Libres,7,2,6,88,8,1
+15,Calculo Integral,LF_4_Analisis,Disciplinar,1,3,8,78,12,0.99
+16,Geometria Euclidiana,LF_1_Geom y Top,Disciplinar,2,3,8,78,8,0.93
+17,Metodos Numericos,LF_2_Modelacion,Disciplinar,3,3,8,80,9,0.92
+18,Probabilidad,LF_5_Prob y Est,Disciplinar,4,3,8,79,11,1
+19,Teorias del Aprendizaje,LF_3_C. Educ. Mat,Disciplinar,5,3,6,88,12,0.98
+20,algebra Superior,LF_6_algebra,Disciplinar,6,3,10,82,11,0.9
+21,Opt_Libre_03,Opt_Libres,Opt_Libres,7,3,6,83,11,1
+22,Calculo Superior,LF_4_Analisis,Disciplinar,1,4,8,78,10,0.99
+23,Analisis Real,LF_4_Analisis,Disciplinar,2,4,8,81,12,0.94
+24,Fundamentos de Fisica Clasica,LF_7_Fisica,Disciplinar,3,4,6,79,12,0.99
+25,Estadistica Desc e Inf,LF_5_Prob y Est,Disciplinar,4,4,8,82,9,0.99
+26,Didactica de las Matematicas,LF_3_C. Educ. Mat,Disciplinar,5,4,8,87,11,0.9
+27,algebra Moderna,LF_6_algebra,Disciplinar,6,4,8,78,11,0.92
+28,Opt_Libre_04,Opt_Libres,Opt_Libres,7,4,6,86,12,0.95
+29,Topologia,LF_1_Geom y Top,Disciplinar,1,5,10,79,9,1
+30,Analisis Matematico,LF_4_Analisis,Disciplinar,2,5,8,86,11,0.94
+31,Ecuaciones Diferenciales Ordinarias,LF_2_Modelacion,Disciplinar,3,5,8,85,12,0.98
+32,Elementos del Muestreo,LF_5_Prob y Est,Disciplinar,4,5,6,82,11,0.91
+33,Tecn y ens de las Matematicas,LF_3_C. Educ. Mat,Disciplinar,5,5,8,84,10,0.98
+34,Teoria de Numeros,LF_6_algebra,Disciplinar,6,5,8,79,9,0.98
+35,Opt_Libre_05,Opt_Libres,Opt_Libres,7,5,6,84,11,0.94
+36,Geometria Moderna,LF_1_Geom y Top,Disciplinar,1,6,8,79,9,0.99
+37,Transformadas y Series,LF_2_Modelacion,Disciplinar,2,6,8,84,9,0.97
+38,Ecuaciones Diferenciales Parciales,LF_2_Modelacion,Disciplinar,3,6,8,81,8,0.9
+39,Diseño de Experimentos,LF_5_Prob y Est,Disciplinar,4,6,8,78,12,0.97
+40,Software Educativo,LF_3_C. Educ. Mat,Disciplinar,5,6,10,86,9,1
+41,Evaluacion del Aprendizaje,LF_3_C. Educ. Mat,Disciplinar,6,6,8,82,10,0.95
+42,Variable Compleja,LF_4_Analisis,Disciplinar,1,7,8,88,8,0.9
+43,Analisis Funcional,LF_4_Analisis,LP_8_Mat_Apl,2,7,8,87,10,0.96
+44,Didactica del algebra,LF_3_C. Educ. Mat,LP_8_Mat_Edu,2,7,8,81,9,0.9
+45,Sistemas Dinamicos,LF_2_Modelacion,Disciplinar,3,7,8,79,12,0.99
+46,Analisis Topologico de Datos,LF_2_Modelacion,LP_8_Mat_Apl,4,7,8,85,8,0.94
+47,Didactica de la Geometria,LF_3_C. Educ. Mat,LP_8_Mat_Edu,4,7,8,78,10,0.91
+48,Metodologia de la Investigacion,LF_3_C. Educ. Mat,Disciplinar,5,7,8,78,12,0.96
+49,Servicio Social,SSyPP,SSyPP,6,7,10,100,1,
+50,Didactica del Calculo,LF_3_C. Educ. Mat,LP_8_Mat_Edu,1,8,8,78,9,0.97
+51,Teoria de la Medida,LF_4_Analisis,LP_8_Mat_Apl,1,8,8,81,11,0.99
+52,Analisis Numerico,LF_2_Modelacion,LP_8_Mat_Apl,2,8,8,78,12,0.92
+53,Planeacion Didactica,LF_3_C. Educ. Mat,LP_8_Mat_Edu,2,8,8,87,9,0.94
+54,Procesos Estocasticos,LF_5_Prob y Est,LP_8_Mat_Apl,3,8,8,78,10,0.97
+55,Seminario de Investigacion,LF_3_C. Educ. Mat,LP_8_Mat_Edu,3,8,8,80,11,0.95
+56,Matematicas Discretas,LF_6_algebra,LP_8_Mat_Apl,4,8,8,88,8,0.95
+57,Tendencias Educativas,LF_3_C. Educ. Mat,LP_8_Mat_Edu,4,8,8,81,11,0.91
+58,Practicas Profesionales,SSyPP,SSyPP,6,8,5,100,1,
