@@ -82,14 +82,14 @@ def generar_numeros_unicos(num, digitos=4):
         numeros.add(f"{nuevo_numero:0{digitos}d}")
     return list(numeros)
 
-def generar_estructura_calificaciones(perfil, Ingreso, semestre):
+def generar_estructura_calificaciones(perfil, ingreso, semestre):
     """Genera una estructura de calificaciones basada en el perfil, año de ingreso y columna curricular."""
     estructura = []
 
     oportunidad, i = 1, 1
     while oportunidad < 7:
         calificación_obtenida = generar_calif_aleatoria_por_perfil(perfil) if oportunidad == i else None
-        fecha_generada = generar_fecha(Ingreso, semestre, oportunidad) if oportunidad == i else None
+        fecha_generada = generar_fecha(ingreso, semestre, oportunidad) if oportunidad == i else None
         docente = fake.name() if oportunidad == i else None
 
         estructura.append({
@@ -123,7 +123,7 @@ def generar_calif_aleatoria_por_perfil(perfil):
     calif = round(rnd.normalvariate(media, desviacion))
     return max(0, min(calif, 100))
 
-def generar_fecha(Ingreso, semestre, oportunidad):
+def generar_fecha(ingreso, semestre, oportunidad):
     """Genera una fecha de examen basada en el año de ingreso, semestre y oportunidad de examen."""
     ajustes_año = {
         1: {1: 0, 2: 1, 3: 1, 4: 1, 5: 2},
@@ -135,7 +135,7 @@ def generar_fecha(Ingreso, semestre, oportunidad):
         7: {1: 3, 2: 4, 3: 4, 4: 4, 5: 5},
         8: {1: 4, 2: 4, 3: 4, 4: 4, 5: 5},
     }
-    año_ajustado = Ingreso + ajustes_año.get(semestre, {1: 0}).get(oportunidad, 0)
+    año_ajustado = ingreso + ajustes_año.get(semestre, {1: 0}).get(oportunidad, 0)
 
     ajustes_mes = {
         1: {1: 12, 2: 1, 3: 2, 4: 12, 5: 1},
@@ -191,7 +191,7 @@ def obtener_nombre_por_genero(sexoRndList):
 
 
 # Bucle principal para generar datos
-for año, ingresos in zip(Ingreso_Hist['generacion'], Ingreso_Hist['nvo_ingreso']):
+for año, ingresos in zip(ingreso_Hist['generacion'], ingreso_Hist['nvo_ingreso']):
     numeros_unicos = generar_numeros_unicos(ingresos)
     perfiles = ['A', 'MA', 'MB', 'B'] * (ingresos // 4 + 1)
     rnd.shuffle(perfiles)
@@ -251,7 +251,3 @@ df_principal.to_csv("db_historico_trayectoria_escolar.csv", sep=',', index=False
 
 # Descargar el archivo de texto
 files.download("db_historico_trayectoria_escolar.csv")
-
-
-
-
