@@ -1,4 +1,4 @@
-ordinal,U_de_Aprend,Academia,Estruct_Curr,RowCurr,ColCurr,Creditos,media_calif,desv_calif,Dificultad 
+ordinal,U_de_Aprend,Academia,Estruct_Curr,RowCurr,Semestre,Creditos,media_calif,desv_calif,Dificultad 
 1,Trigonometria,LF1GeomYTop,Disciplinar,1,1,6,86,11,0.97
 2,GeometriaAnaliticaPlana,LF1GeomYTop,Disciplinar,2,1,8,85,8,0.91
 3,TopicosDeMatematicas,TBA,TBA,3,1,8,78,8,1.05
