@@ -238,87 +238,20 @@ with open("db_historico_trayectoria_escolar.json", "w") as archivo_json:
 if IN_COLAB:
     files.download("db_historico_trayectoria_escolar.json")
 
-# Guardar los resultados en un archivo txt
-df_principal.to_csv("db_historico_trayectoria_escolar.csv", sep=',', index=False, encoding='utf-8')
-
-# Descargar el archivo de texto
-files.download("db_historico_trayectoria_escolar.csv")
-
 # Guardar los resultados en un archivo json
 df_principal.to_json("db_historico_trayectoria_escolar.json", orient="records")
 
 # Descargar el archivo de texto
 files.download("db_historico_trayectoria_escolar.json")
 
-"""## Generar archivo JSON y MongoDB a partir del código Python
+############ Descargar csv ##########################################
 
-**1. Generar archivo JSON:**
+# Guardar los resultados en un archivo txt
+df_principal.to_csv("db_historico_trayectoria_escolar.csv", sep=',', index=False, encoding='utf-8')
 
-Para generar un archivo JSON a partir del código Python proporcionado, siga estos pasos:
+# Descargar el archivo de texto
+files.download("db_historico_trayectoria_escolar.csv")
 
-**a)** Importe la biblioteca `json` al principio del script:
 
-```python
-import json
-```
 
-**b)** Al final del script, después de generar el DataFrame `df_principal`, utilice la función `json.dumps` para convertirlo a un string JSON:
-
-```python
-json_data = df_principal.to_json(orient='records')
-
-with open('db_historico_trayectoria_escolar.json', 'w', encoding='utf-8') as f:
-    json.dump(json_data, f, indent=4)
-```
-
-**c)** Reemplace el valor de `indent` con el número de espacios que desea usar para sangrar el archivo JSON.
-
-**d)** Guarde el archivo JSON con el nombre deseado (por ejemplo, `db_historico_trayectoria_escolar.json`).
-
-**2. Insertar datos en MongoDB:**
-
-Para insertar los datos en MongoDB, siga estos pasos:
-
-**a)** Instale el cliente de MongoDB para Python:
-
-`pip install pymongo`
-
-**b)** Importe la biblioteca `pymongo` al principio del script:
-
-```python
-import pymongo
-```
-
-**c)** Establezca la conexión con la base de datos MongoDB:
-
-```python
-client = pymongo.MongoClient("mongodb://localhost:27017")
-db = client["mydb"]
-collection = db["historico_trayectoria_escolar"]
-```
-
-**d)** Inserte los datos del DataFrame `df_principal` en la colección:
-
-```python
-for row in df_principal.to_dict('records'):
-    collection.insert_one(row)
-```
-
-**e)** Reemplace "mydb" y "historico_trayectoria_escolar" con el nombre de la base de datos y la colección que desea usar.
-
-**f)** Reemplace "localhost:27017" con la dirección IP y el puerto del servidor MongoDB.
-
-**3. Consideraciones adicionales:**
-
-* Asegúrese de tener un servidor MongoDB ejecutándose en el puerto 27017.
-* Puede modificar el código para personalizar el nombre del archivo JSON, el nombre de la base de datos, la colección y el formato de los datos.
-* Si lo desea, puede usar una herramienta como MongoDB Compass para visualizar los datos en la base de datos.
-
-**Recursos adicionales:**
-
-* Documentación de JSON: [https://www.json.org/](https://www.json.org/)
-* Documentación de pymongo: [https://pymongo.readthedocs.io/](https://pymongo.readthedocs.io/)
-* Documentación de MongoDB: [https://www.mongodb.com/](https://www.mongodb.com/)
-
-"""
 
