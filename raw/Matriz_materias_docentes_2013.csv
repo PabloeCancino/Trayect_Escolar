@@ -1,5 +1,5 @@
-﻿,Docentes,Ayala Rodriguez Jose Fernando,Campos Martinez Pedro Emilio,Cruz Andrade Mariana Teresa,Castañeda Montiel Diana Isabel,Chavez Gutierrez Rosa Alejandra,Espinoza Elizalde Alicia Leticia,Hernandez Ramirez Olivia Hortensia,Morales Rojas Sandra Maria,Orozco Aguirre Monica Isabel,Perez Luna Gabriela Elena,Ramirez Aguirre Raquel,Valenzuela Montoya Cesar Andres,Yañez Andrade Samuel Eduardo,,Total de docentes por materia
-Clave,1er sem 2013,,,,,,,,,,,,,,,
+Clave﻿,Materia,Ayala Rodriguez Jose Fernando,Campos Martinez Pedro Emilio,Cruz Andrade Mariana Teresa,Castañeda Montiel Diana Isabel,Chavez Gutierrez Rosa Alejandra,Espinoza Elizalde Alicia Leticia,Hernandez Ramirez Olivia Hortensia,Morales Rojas Sandra Maria,Orozco Aguirre Monica Isabel,Perez Luna Gabriela Elena,Ramirez Aguirre Raquel,Valenzuela Montoya Cesar Andres,Yañez Andrade Samuel Eduardo,,Total de docentes por materia
+,1er sem 2013,,,,,,,,,,,,,,,
 Clave_001,Calculo Diferencial,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,,10
 Clave_002,Fundamentos de Mecanica Clasica,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,,3
 Clave_003,Lenguaje y pensamiento matematico,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,,7
